@@ -1,0 +1,22 @@
+
+# Instrucciones para actualizar Rank Math usando WP CLI
+
+## 1. Instalar el comando de Rank Math (si está disponible):
+wp package install rank-math/wp-cli
+
+## 2. Si no está disponible, usar wp post update con campos meta:
+wp post meta update 10 rank_math_description 'Tu descripción aquí'
+wp post meta update 10 rank_math_title 'Tu título aquí'
+
+## 3. Actualización masiva desde un script:
+# Ejemplo de script bash para actualización masiva
+for id in 10 27 37 1521; do
+  wp post meta update $id rank_math_description 'Descripción para ID $id'
+done
+
+## 4. Verificar actualizaciones:
+wp post meta get 10 rank_math_description
+
+# Para páginas en lugar de posts, usar 'wp post' igualmente ya que WordPress
+# trata páginas como un tipo especial de post
+        

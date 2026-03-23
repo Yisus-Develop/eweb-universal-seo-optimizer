@@ -1,0 +1,38 @@
+{
+    "site": "https:\/\/marschallenge.space",
+    "identification_date": "2025-11-07 14:30:40",
+    "duplicate_analysis": {
+        "exact_duplicates": [],
+        "canonical_duplicates": [],
+        "variation_duplicates": {
+            "RDE": {
+                "count": 2,
+                "items": [
+                    {
+                        "id": 47,
+                        "type": "page",
+                        "url": "https:\/\/marschallenge.space\/participar\/registro-de-empresas\/",
+                        "raw_title": "Registro de empresas"
+                    },
+                    {
+                        "id": 41,
+                        "type": "page",
+                        "url": "https:\/\/marschallenge.space\/participar\/registro-de-estudiantes\/",
+                        "raw_title": "Registro de estudiantes"
+                    }
+                ],
+                "original_titles": [
+                    "Registro de empresas",
+                    "Registro de estudiantes"
+                ]
+            }
+        },
+        "potential_omitted_duplicates": []
+    },
+    "summary": {
+        "exact_duplicates": 0,
+        "canonical_duplicates": 0,
+        "variation_duplicates": 1,
+        "potential_omitted_duplicates": 0
+    }
+}

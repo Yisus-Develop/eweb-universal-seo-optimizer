@@ -1,0 +1,314 @@
+{
+    "timestamp": "2025-11-28 15:00:59",
+    "processed": 51,
+    "success": 51,
+    "errors": 0,
+    "results": [
+        {
+            "id": 1200,
+            "old_title": "Jóvenes puertorriqueños rumbo a Madrid",
+            "new_title": "Jóvenes puertorriqueños rumbo a Madrid | Mars Challenge - Innovación Espacial",
+            "status": "success"
+        },
+        {
+            "id": 1197,
+            "old_title": "Reto Marte en Costa Rica",
+            "new_title": "Reto Marte en Costa Rica | Mars Challenge - Innovación Espacial",
+            "status": "success"
+        },
+        {
+            "id": 1193,
+            "old_title": "Final Reto Marte 2024 — Madrid",
+            "new_title": "Final Reto Marte 2024 — Madrid | Mars Challenge - Innovación Espacial",
+            "status": "success"
+        },
+        {
+            "id": 2898,
+            "old_title": "Agua",
+            "new_title": "Reto Marte: Agua | Mars Challenge - Soluciones Sostenibles",
+            "status": "success"
+        },
+        {
+            "id": 2883,
+            "old_title": "Fuego",
+            "new_title": "Reto Marte: Fuego | Mars Challenge - Soluciones Sostenibles",
+            "status": "success"
+        },
+        {
+            "id": 2864,
+            "old_title": "Genesis",
+            "new_title": "Reto Marte: Genesis | Mars Challenge - Soluciones Sostenibles",
+            "status": "success"
+        },
+        {
+            "id": 2747,
+            "old_title": "voices",
+            "new_title": "Voices | Mars Challenge - Voces del Futuro",
+            "status": "success"
+        },
+        {
+            "id": 1521,
+            "old_title": "Registro",
+            "new_title": "Registro | Mars Challenge - Únete al Reto Global",
+            "status": "success"
+        },
+        {
+            "id": 178,
+            "old_title": "No Planet B. Just A Better Plan",
+            "new_title": "No Planet B. Just A Better Plan | Sobre Mars Challenge - Misión y Visión",
+            "status": "success"
+        },
+        {
+            "id": 93,
+            "old_title": "Ciudades y gobiernos locales",
+            "new_title": "Ciudades y gobiernos locales | Comunidad Mars Challenge - Impacto Global",
+            "status": "success"
+        },
+        {
+            "id": 91,
+            "old_title": "Empresas",
+            "new_title": "Empresas | Mars Challenge - Innovación Corporativa y CSR",
+            "status": "success"
+        },
+        {
+            "id": 89,
+            "old_title": "Universidades",
+            "new_title": "Universidades | Comunidad Mars Challenge - Impacto Global",
+            "status": "success"
+        },
+        {
+            "id": 87,
+            "old_title": "Otras instituciones",
+            "new_title": "Otras instituciones | Comunidad Mars Challenge - Impacto Global",
+            "status": "success"
+        },
+        {
+            "id": 85,
+            "old_title": "Colegios y escuelas",
+            "new_title": "Colegios y escuelas | Comunidad Mars Challenge - Impacto Global",
+            "status": "success"
+        },
+        {
+            "id": 83,
+            "old_title": "Maestros (Mission One Teacher \/ Mission Mentor)",
+            "new_title": "Maestros (Mission One Teacher \/ Mission Mentor) | Comunidad Mars Challenge - Impacto Global",
+            "status": "success"
+        },
+        {
+            "id": 81,
+            "old_title": "Jóvenes (Zers)",
+            "new_title": "Jóvenes (Zers) | Comunidad Mars Challenge - Impacto Global",
+            "status": "success"
+        },
+        {
+            "id": 79,
+            "old_title": "Mapa interactivo",
+            "new_title": "Mapa interactivo | Mars Challenge - Innovación Espacial",
+            "status": "success"
+        },
+        {
+            "id": 77,
+            "old_title": "Instituciones líderes",
+            "new_title": "Instituciones líderes | Mars Challenge - Innovación Espacial",
+            "status": "success"
+        },
+        {
+            "id": 75,
+            "old_title": "Mars Challenge Cities",
+            "new_title": "Mars Challenge Cities | Mars Challenge - Innovación Espacial",
+            "status": "success"
+        },
+        {
+            "id": 73,
+            "old_title": "Encuentra tu país",
+            "new_title": "Encuentra tu país | Mars Challenge - Innovación Espacial",
+            "status": "success"
+        },
+        {
+            "id": 71,
+            "old_title": "Corporate Social Responsibility (CSR)",
+            "new_title": "Corporate Social Responsibility (CSR) | Mars Challenge - Innovación Corporativa y CSR",
+            "status": "success"
+        },
+        {
+            "id": 69,
+            "old_title": "Planes y benefícios",
+            "new_title": "Planes y benefícios | Mars Challenge - Innovación Corporativa y CSR",
+            "status": "success"
+        },
+        {
+            "id": 67,
+            "old_title": "Sello Best Space &amp; Earth 2026",
+            "new_title": "Sello Best Space &amp; Earth 2026 | Mars Challenge - Innovación Corporativa y CSR",
+            "status": "success"
+        },
+        {
+            "id": 65,
+            "old_title": "Cómo colaborar",
+            "new_title": "Cómo colaborar | Mars Challenge - Innovación Corporativa y CSR",
+            "status": "success"
+        },
+        {
+            "id": 63,
+            "old_title": "Premio Houston Space Center",
+            "new_title": "Premio Houston Space Center | HackImpacto Mars Challenge - Hackathon Global",
+            "status": "success"
+        },
+        {
+            "id": 61,
+            "old_title": "Final Internacional Madrid 2026",
+            "new_title": "Final Internacional Madrid 2026 | HackImpacto Mars Challenge - Hackathon Global",
+            "status": "success"
+        },
+        {
+            "id": 59,
+            "old_title": "Premios y reconocimientos",
+            "new_title": "Premios y reconocimientos | HackImpacto Mars Challenge - Hackathon Global",
+            "status": "success"
+        },
+        {
+            "id": 57,
+            "old_title": "Fases del reto",
+            "new_title": "Fases del reto | HackImpacto Mars Challenge - Hackathon Global",
+            "status": "success"
+        },
+        {
+            "id": 55,
+            "old_title": "¿Qué es HackImpacto?",
+            "new_title": "¿Qué es HackImpacto? | HackImpacto Mars Challenge - Hackathon Global",
+            "status": "success"
+        },
+        {
+            "id": 53,
+            "old_title": "¿Qué es un hackathón?",
+            "new_title": "¿Qué es un hackathón? | HackImpacto Mars Challenge - Hackathon Global",
+            "status": "success"
+        },
+        {
+            "id": 51,
+            "old_title": "Registro de países",
+            "new_title": "Registro de países | Mars Challenge - Únete al Reto Global",
+            "status": "success"
+        },
+        {
+            "id": 49,
+            "old_title": "Registro de ciudades y estados",
+            "new_title": "Registro de ciudades y estados | Mars Challenge - Únete al Reto Global",
+            "status": "success"
+        },
+        {
+            "id": 47,
+            "old_title": "Registro de empresas",
+            "new_title": "Registro de empresas | Mars Challenge - Únete al Reto Global",
+            "status": "success"
+        },
+        {
+            "id": 45,
+            "old_title": "Registro de instituciones",
+            "new_title": "Registro de instituciones | Mars Challenge - Únete al Reto Global",
+            "status": "success"
+        },
+        {
+            "id": 43,
+            "old_title": "Registro de docentes y mentores",
+            "new_title": "Registro de docentes y mentores | Mars Challenge - Únete al Reto Global",
+            "status": "success"
+        },
+        {
+            "id": 41,
+            "old_title": "Registro de estudiantes",
+            "new_title": "Registro de estudiantes | Mars Challenge - Únete al Reto Global",
+            "status": "success"
+        },
+        {
+            "id": 39,
+            "old_title": "Convocatoria actual — 2026 Tierra",
+            "new_title": "Convocatoria actual — 2026 Tierra | Participa en Mars Challenge - Reto Educativo",
+            "status": "success"
+        },
+        {
+            "id": 37,
+            "old_title": "Cómo participar",
+            "new_title": "Cómo participar | Participa en Mars Challenge - Reto Educativo",
+            "status": "success"
+        },
+        {
+            "id": 35,
+            "old_title": "Innovación dual-planeta",
+            "new_title": "Innovación dual-planeta | Sobre Mars Challenge - Misión y Visión",
+            "status": "success"
+        },
+        {
+            "id": 33,
+            "old_title": "Investigadores",
+            "new_title": "Investigadores | Sobre Mars Challenge - Misión y Visión",
+            "status": "success"
+        },
+        {
+            "id": 31,
+            "old_title": "Aliados estratégicos",
+            "new_title": "Aliados estratégicos | Sobre Mars Challenge - Misión y Visión",
+            "status": "success"
+        },
+        {
+            "id": 29,
+            "old_title": "Prensa",
+            "new_title": "Prensa | Sobre Mars Challenge - Misión y Visión",
+            "status": "success"
+        },
+        {
+            "id": 27,
+            "old_title": "Mars Challenge",
+            "new_title": "Mars Challenge | Sobre Mars Challenge - Misión y Visión",
+            "status": "success"
+        },
+        {
+            "id": 25,
+            "old_title": "Quien sirve",
+            "new_title": "Quien sirve | Comunidad Mars Challenge - Impacto Global",
+            "status": "success"
+        },
+        {
+            "id": 23,
+            "old_title": "Encuentra un Mars Challenge",
+            "new_title": "Encuentra un Mars Challenge | Mars Challenge - Innovación Espacial",
+            "status": "success"
+        },
+        {
+            "id": 21,
+            "old_title": "Empresas &#8211; Particular",
+            "new_title": "Empresas - Particular | Mars Challenge - Innovación Corporativa y CSR",
+            "status": "success"
+        },
+        {
+            "id": 19,
+            "old_title": "Seasons",
+            "new_title": "Seasons | Mars Challenge - Temporadas del Reto",
+            "status": "success"
+        },
+        {
+            "id": 17,
+            "old_title": "HackImpacto",
+            "new_title": "HackImpacto | HackImpacto Mars Challenge - Hackathon Global",
+            "status": "success"
+        },
+        {
+            "id": 15,
+            "old_title": "Participa",
+            "new_title": "Participa | Participa en Mars Challenge - Reto Educativo",
+            "status": "success"
+        },
+        {
+            "id": 13,
+            "old_title": "Sobre",
+            "new_title": "Sobre | Sobre Mars Challenge - Misión y Visión",
+            "status": "success"
+        },
+        {
+            "id": 10,
+            "old_title": "Inicio",
+            "new_title": "Mars Challenge 2026 | Innovación Dual-Planeta Tierra y Marte",
+            "status": "success"
+        }
+    ]
+}

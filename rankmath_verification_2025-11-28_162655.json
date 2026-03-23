@@ -1,0 +1,1376 @@
+{
+    "generated_at": "2025-11-28 16:26:55",
+    "standards": {
+        "title_min": 30,
+        "title_max": 60,
+        "desc_min": 120,
+        "desc_max": 160
+    },
+    "summary": {
+        "total": 76,
+        "ok_title": 0,
+        "ok_desc": 0,
+        "ok_keyword": 0,
+        "fully_compliant": 0,
+        "issues": {
+            "no_title": 76,
+            "title_too_short": 0,
+            "title_too_long": 0,
+            "no_desc": 76,
+            "desc_too_short": 0,
+            "desc_too_long": 0,
+            "no_keyword": 76
+        },
+        "by_type": {
+            "post": {
+                "total": 0,
+                "compliant": 0,
+                "issues": 0
+            },
+            "page": {
+                "total": 0,
+                "compliant": 0,
+                "issues": 0
+            },
+            "instituciones": {
+                "total": 1,
+                "compliant": 0,
+                "issues": 1
+            },
+            "empresas_aliadas": {
+                "total": 2,
+                "compliant": 0,
+                "issues": 2
+            },
+            "landing_paises": {
+                "total": 3,
+                "compliant": 0,
+                "issues": 3
+            },
+            "quienes-sirven": {
+                "total": 7,
+                "compliant": 0,
+                "issues": 7
+            },
+            "participa": {
+                "total": 6,
+                "compliant": 0,
+                "issues": 6
+            },
+            "tematicas_y_elemento": {
+                "total": 4,
+                "compliant": 0,
+                "issues": 4
+            },
+            "logos": {
+                "total": 47,
+                "compliant": 0,
+                "issues": 47
+            },
+            "testimonios": {
+                "total": 5,
+                "compliant": 0,
+                "issues": 5
+            },
+            "country_page": {
+                "total": 1,
+                "compliant": 0,
+                "issues": 1
+            }
+        }
+    },
+    "items": [
+        {
+            "id": 4961,
+            "type": "instituciones",
+            "url": "https://marschallenge.space/instituciones/federacion-mexicana-de-la-industria-aeroespacial/",
+            "wp_title": "Federación Mexicana de la Industria Aeroespacial",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 4958,
+            "type": "empresas_aliadas",
+            "url": "https://marschallenge.space/empresas_aliadas/virtual-educa/",
+            "wp_title": "Virtual educa",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 4922,
+            "type": "empresas_aliadas",
+            "url": "https://marschallenge.space/empresas_aliadas/federacion-mexicana-de-la-industria-aeroespacial/",
+            "wp_title": "Federación Mexicana de la Industria Aeroespacial",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5476,
+            "type": "landing_paises",
+            "url": "https://marschallenge.space/peru/",
+            "wp_title": "Perú",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5463,
+            "type": "landing_paises",
+            "url": "https://marschallenge.space/espana/",
+            "wp_title": "España",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 4672,
+            "type": "landing_paises",
+            "url": "https://marschallenge.space/mexico/",
+            "wp_title": "México",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 4255,
+            "type": "quienes-sirven",
+            "url": "https://marschallenge.space/quienes-sirven/jovenes-zers/",
+            "wp_title": "Jóvenes (Zers)",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 4253,
+            "type": "quienes-sirven",
+            "url": "https://marschallenge.space/quienes-sirven/maestros-y-mentores/",
+            "wp_title": "Maestros y mentores",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 4251,
+            "type": "quienes-sirven",
+            "url": "https://marschallenge.space/quienes-sirven/colegios-y-escuelas/",
+            "wp_title": "Colegios y escuelas",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 4249,
+            "type": "quienes-sirven",
+            "url": "https://marschallenge.space/quienes-sirven/otras-instituciones/",
+            "wp_title": "Otras instituciones",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 4247,
+            "type": "quienes-sirven",
+            "url": "https://marschallenge.space/quienes-sirven/universidades/",
+            "wp_title": "Universidades",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 4242,
+            "type": "quienes-sirven",
+            "url": "https://marschallenge.space/quienes-sirven/empresas/",
+            "wp_title": "Empresas",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 4177,
+            "type": "quienes-sirven",
+            "url": "https://marschallenge.space/quienes-sirven/ciudades-y-estados/",
+            "wp_title": "Ciudades y gobiernos locales",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 2656,
+            "type": "participa",
+            "url": "https://marschallenge.space/participa/paises/",
+            "wp_title": "Países",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 2653,
+            "type": "participa",
+            "url": "https://marschallenge.space/participa/ciudades-y-estados/",
+            "wp_title": "Ciudades y estados",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 2649,
+            "type": "participa",
+            "url": "https://marschallenge.space/participa/empresas/",
+            "wp_title": "Empresas",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 2643,
+            "type": "participa",
+            "url": "https://marschallenge.space/participa/instituciones/",
+            "wp_title": "Instituciones",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 2636,
+            "type": "participa",
+            "url": "https://marschallenge.space/participa/docentes-y-mentores/",
+            "wp_title": "Docentes y mentores",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 2286,
+            "type": "participa",
+            "url": "https://marschallenge.space/participa/estudiantes-2/",
+            "wp_title": "Estudiantes",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 2119,
+            "type": "tematicas_y_elemento",
+            "url": "https://marschallenge.space/tematicas_y_elemento/2026-tierra-convocatoria-abierta/",
+            "wp_title": "2026 — Tierra (Convocatoria abierta)",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 2116,
+            "type": "tematicas_y_elemento",
+            "url": "https://marschallenge.space/tematicas_y_elemento/2025-fuego/",
+            "wp_title": "2025 — Fuego",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 2113,
+            "type": "tematicas_y_elemento",
+            "url": "https://marschallenge.space/tematicas_y_elemento/2024-agua/",
+            "wp_title": "2024 — Agua",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 2082,
+            "type": "tematicas_y_elemento",
+            "url": "https://marschallenge.space/tematicas_y_elemento/2023-genesis/",
+            "wp_title": "2023 — Génesis",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5849,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/secretaria-de-innovacion-y-desarrollo/",
+            "wp_title": "Secretaria de innovación y desarrollo",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5751,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/zodiac-aerospace/",
+            "wp_title": "ZODIAC AEROSPACE",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5749,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/textron-aviation/",
+            "wp_title": "TEXTRON AVIATION",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5747,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/safran/",
+            "wp_title": "SAFRAN",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5745,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/optimen/",
+            "wp_title": "OPTIMEN",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5743,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/itp-aero/",
+            "wp_title": "ITP AERO",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5741,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/innova-engineered-plastics/",
+            "wp_title": "INNOVA ENGINEERED PLASTICS",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5739,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/indeq/",
+            "wp_title": "INDEQ",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5737,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/honeywell/",
+            "wp_title": "HONEYWELL",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5735,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/heroux-devtek/",
+            "wp_title": "HEROUX DEVTEK",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5733,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/gulfstream/",
+            "wp_title": "GULFSTREAM",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5731,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/ge-aerospace/",
+            "wp_title": "GE AEROSPACE",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5729,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/dupont/",
+            "wp_title": "DUPONT",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5727,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/collins-aerospace/",
+            "wp_title": "COLLINS AEROSPACE",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5725,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/bombardier-aerospace/",
+            "wp_title": "BOMBARDIER AEROSPACE",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5723,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/boeing/",
+            "wp_title": "BOEING",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5721,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/ascent-aerospace/",
+            "wp_title": "ASCENT AEROSPACE",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5719,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/american-industries/",
+            "wp_title": "AMERICAN INDUSTRIES",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5717,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/airbus/",
+            "wp_title": "AIRBUS",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5715,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/aerocluster/",
+            "wp_title": "AEROCLUSTER",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5713,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/aernnova/",
+            "wp_title": "AERNNOVA",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5530,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/tech-learning-awards-2025/",
+            "wp_title": "Tech &amp; Learning Awards 2025",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5282,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/reimagine-education-awards/",
+            "wp_title": "ReImagine Education Awards",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5280,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/gess-education-awards-2025/",
+            "wp_title": "GESS Education Awards 2025",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5091,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/secretaria-de-educacion-chihuahua/",
+            "wp_title": "Secretaria de Educación Chihuahua",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 1338,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/esa/",
+            "wp_title": "ESA",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 1336,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/houston-space-center-nasacolaboracion-individual/",
+            "wp_title": "Houston Space center/ NASA(colaboración individual)",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 1334,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/femia/",
+            "wp_title": "FEMIA",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 1332,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/space-talent-lab-2/",
+            "wp_title": "Space Talent Lab",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 1329,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/virtual-educa/",
+            "wp_title": "VIRTUAL EDUCA",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 876,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/edupan/",
+            "wp_title": "Edupan",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 874,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/buen-data/",
+            "wp_title": "Buen Data",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 872,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/lifelong/",
+            "wp_title": "Lifelong",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 870,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/griky/",
+            "wp_title": "Griky",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 868,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/roborobo/",
+            "wp_title": "RoboRobo",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 866,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/latourette/",
+            "wp_title": "Latourette",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 863,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/cuco/",
+            "wp_title": "CUCO",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 862,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/qualcomm/",
+            "wp_title": "Qualcomm",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 860,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/aec/",
+            "wp_title": "AEC",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 858,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/ayuntamiento-de-getafe/",
+            "wp_title": "Ayuntamiento de Getafe",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 855,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/getafe-iniciativas/",
+            "wp_title": "Getafe Iniciativas",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 854,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/departamento-de-educacion/",
+            "wp_title": "Departamento de educación",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 852,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/iste/",
+            "wp_title": "ISTE",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 850,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/ruta-n/",
+            "wp_title": "Ruta N",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 848,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/space-center-houston/",
+            "wp_title": "Space Center Houston",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 846,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/space-talent-lab/",
+            "wp_title": "Space Talent Lab",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 843,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/parlamento/",
+            "wp_title": "Parlamento",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 648,
+            "type": "testimonios",
+            "url": "https://marschallenge.space/testimonios/carolina-londono-pelaez/",
+            "wp_title": "Carolina Londoño Peláez",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 646,
+            "type": "testimonios",
+            "url": "https://marschallenge.space/testimonios/alejandro-gavarrete/",
+            "wp_title": "Alejandro Gavarrete",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 644,
+            "type": "testimonios",
+            "url": "https://marschallenge.space/testimonios/maria-alejandra-gaviria/",
+            "wp_title": "María Alejandra Gaviria",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 642,
+            "type": "testimonios",
+            "url": "https://marschallenge.space/testimonios/nayeli-abreu/",
+            "wp_title": "Nayeli Abreu",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 636,
+            "type": "testimonios",
+            "url": "https://marschallenge.space/testimonios/sofia-mena/",
+            "wp_title": "Sofía Mena",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 4430,
+            "type": "country_page",
+            "url": "https://marschallenge.space/country-page/mexico/",
+            "wp_title": "México",
+            "seo_title": "",
+            "title_length": 0,
+            "description": "",
+            "desc_length": 0,
+            "keyword": "",
+            "issues": [
+                "Sin título SEO",
+                "Sin descripción SEO",
+                "Sin keyword"
+            ],
+            "compliant": false
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+global/coding-standards.md
+global/design-standards.md
+global/security.md
+global/prompt-style.md

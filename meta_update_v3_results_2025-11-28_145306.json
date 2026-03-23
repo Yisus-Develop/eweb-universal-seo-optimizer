@@ -1,0 +1,200 @@
+{
+    "timestamp": "2025-11-28 14:53:06",
+    "processed": 48,
+    "success": 48,
+    "errors": 0,
+    "results": [
+        {
+            "id": 2898,
+            "status": "success"
+        },
+        {
+            "id": 2883,
+            "status": "success"
+        },
+        {
+            "id": 2864,
+            "status": "success"
+        },
+        {
+            "id": 2747,
+            "status": "success"
+        },
+        {
+            "id": 1521,
+            "status": "success"
+        },
+        {
+            "id": 178,
+            "status": "success"
+        },
+        {
+            "id": 93,
+            "status": "success"
+        },
+        {
+            "id": 91,
+            "status": "success"
+        },
+        {
+            "id": 89,
+            "status": "success"
+        },
+        {
+            "id": 87,
+            "status": "success"
+        },
+        {
+            "id": 85,
+            "status": "success"
+        },
+        {
+            "id": 83,
+            "status": "success"
+        },
+        {
+            "id": 81,
+            "status": "success"
+        },
+        {
+            "id": 79,
+            "status": "success"
+        },
+        {
+            "id": 77,
+            "status": "success"
+        },
+        {
+            "id": 75,
+            "status": "success"
+        },
+        {
+            "id": 73,
+            "status": "success"
+        },
+        {
+            "id": 71,
+            "status": "success"
+        },
+        {
+            "id": 69,
+            "status": "success"
+        },
+        {
+            "id": 67,
+            "status": "success"
+        },
+        {
+            "id": 65,
+            "status": "success"
+        },
+        {
+            "id": 63,
+            "status": "success"
+        },
+        {
+            "id": 61,
+            "status": "success"
+        },
+        {
+            "id": 59,
+            "status": "success"
+        },
+        {
+            "id": 57,
+            "status": "success"
+        },
+        {
+            "id": 55,
+            "status": "success"
+        },
+        {
+            "id": 53,
+            "status": "success"
+        },
+        {
+            "id": 51,
+            "status": "success"
+        },
+        {
+            "id": 49,
+            "status": "success"
+        },
+        {
+            "id": 47,
+            "status": "success"
+        },
+        {
+            "id": 45,
+            "status": "success"
+        },
+        {
+            "id": 43,
+            "status": "success"
+        },
+        {
+            "id": 41,
+            "status": "success"
+        },
+        {
+            "id": 39,
+            "status": "success"
+        },
+        {
+            "id": 37,
+            "status": "success"
+        },
+        {
+            "id": 35,
+            "status": "success"
+        },
+        {
+            "id": 33,
+            "status": "success"
+        },
+        {
+            "id": 31,
+            "status": "success"
+        },
+        {
+            "id": 29,
+            "status": "success"
+        },
+        {
+            "id": 27,
+            "status": "success"
+        },
+        {
+            "id": 25,
+            "status": "success"
+        },
+        {
+            "id": 23,
+            "status": "success"
+        },
+        {
+            "id": 21,
+            "status": "success"
+        },
+        {
+            "id": 19,
+            "status": "success"
+        },
+        {
+            "id": 17,
+            "status": "success"
+        },
+        {
+            "id": 15,
+            "status": "success"
+        },
+        {
+            "id": 13,
+            "status": "success"
+        },
+        {
+            "id": 10,
+            "status": "success"
+        }
+    ]
+}

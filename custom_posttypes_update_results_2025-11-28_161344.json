@@ -1,0 +1,714 @@
+{
+    "timestamp": "2025-11-28 16:13:44",
+    "target_types": [
+        "instituciones",
+        "empresas_aliadas",
+        "landing_paises",
+        "quienes-sirven",
+        "participa",
+        "tematicas_y_elemento",
+        "logos",
+        "testimonios",
+        "country_page"
+    ],
+    "processed": 76,
+    "success": 76,
+    "errors": 0,
+    "by_type": {
+        "instituciones": 1,
+        "empresas_aliadas": 2,
+        "landing_paises": 3,
+        "quienes-sirven": 7,
+        "participa": 6,
+        "tematicas_y_elemento": 4,
+        "logos": 47,
+        "testimonios": 5,
+        "country_page": 1
+    },
+    "results": [
+        {
+            "id": 4961,
+            "type": "instituciones",
+            "old_title": "Federación Mexicana de la Industria Aeroespacial",
+            "new_title": "Federación Mexicana de la Industria Aeroespacial | Instituciones Mars Challenge",
+            "new_description": "Conoce Federación Mexicana de la Industria Aeroespacial, institución participante en Mars Challenge. Red global de innovación dual-planeta para soluciones sostenibles.",
+            "new_keyword": "federación mexicana de la industria aeroespacial, mars challenge, instituciones",
+            "status": "success"
+        },
+        {
+            "id": 4958,
+            "type": "empresas_aliadas",
+            "old_title": "Virtual educa",
+            "new_title": "Virtual educa | Empresas Aliadas Mars Challenge",
+            "new_description": "Virtual educa - Empresa aliada de Mars Challenge. Colaboración corporativa en innovación espacial y sostenibilidad terrestre.",
+            "new_keyword": "virtual educa, mars challenge, empresas aliadas",
+            "status": "success"
+        },
+        {
+            "id": 4922,
+            "type": "empresas_aliadas",
+            "old_title": "Federación Mexicana de la Industria Aeroespacial",
+            "new_title": "Federación Mexicana de la Industria Aeroespacial | Empresas Aliadas Mars Challenge",
+            "new_description": "Federación Mexicana de la Industria Aeroespacial - Empresa aliada de Mars Challenge. Colaboración corporativa en innovación espacial y sostenibilidad terrestre.",
+            "new_keyword": "federación mexicana de la industria aeroespacial, mars challenge, empresas aliadas",
+            "status": "success"
+        },
+        {
+            "id": 5476,
+            "type": "landing_paises",
+            "old_title": "Perú",
+            "new_title": "Mars Challenge Perú | Innovación Dual-Planeta",
+            "new_description": "Mars Challenge en Perú. Únete al movimiento global de innovación dual-planeta. Participa en el reto educativo más importante.",
+            "new_keyword": "perú, mars challenge, landing paises",
+            "status": "success"
+        },
+        {
+            "id": 5463,
+            "type": "landing_paises",
+            "old_title": "España",
+            "new_title": "Mars Challenge España | Innovación Dual-Planeta",
+            "new_description": "Mars Challenge en España. Únete al movimiento global de innovación dual-planeta. Participa en el reto educativo más importante.",
+            "new_keyword": "españa, mars challenge, landing paises",
+            "status": "success"
+        },
+        {
+            "id": 4672,
+            "type": "landing_paises",
+            "old_title": "México",
+            "new_title": "Mars Challenge México | Innovación Dual-Planeta",
+            "new_description": "Mars Challenge en México. Únete al movimiento global de innovación dual-planeta. Participa en el reto educativo más importante.",
+            "new_keyword": "méxico, mars challenge, landing paises",
+            "status": "success"
+        },
+        {
+            "id": 4255,
+            "type": "quienes-sirven",
+            "old_title": "Jóvenes (Zers)",
+            "new_title": "Jóvenes (Zers) | Quiénes Sirven - Mars Challenge",
+            "new_description": "Descubre Jóvenes (Zers) en Mars Challenge. Información sobre participantes, beneficios y cómo formar parte del movimiento global.",
+            "new_keyword": "jóvenes (zers), mars challenge, quienes-sirven",
+            "status": "success"
+        },
+        {
+            "id": 4253,
+            "type": "quienes-sirven",
+            "old_title": "Maestros y mentores",
+            "new_title": "Maestros y mentores | Quiénes Sirven - Mars Challenge",
+            "new_description": "Descubre Maestros y mentores en Mars Challenge. Información sobre participantes, beneficios y cómo formar parte del movimiento global.",
+            "new_keyword": "maestros y mentores, mars challenge, quienes-sirven",
+            "status": "success"
+        },
+        {
+            "id": 4251,
+            "type": "quienes-sirven",
+            "old_title": "Colegios y escuelas",
+            "new_title": "Colegios y escuelas | Quiénes Sirven - Mars Challenge",
+            "new_description": "Descubre Colegios y escuelas en Mars Challenge. Información sobre participantes, beneficios y cómo formar parte del movimiento global.",
+            "new_keyword": "colegios y escuelas, mars challenge, quienes-sirven",
+            "status": "success"
+        },
+        {
+            "id": 4249,
+            "type": "quienes-sirven",
+            "old_title": "Otras instituciones",
+            "new_title": "Otras instituciones | Quiénes Sirven - Mars Challenge",
+            "new_description": "Descubre Otras instituciones en Mars Challenge. Información sobre participantes, beneficios y cómo formar parte del movimiento global.",
+            "new_keyword": "otras instituciones, mars challenge, quienes-sirven",
+            "status": "success"
+        },
+        {
+            "id": 4247,
+            "type": "quienes-sirven",
+            "old_title": "Universidades",
+            "new_title": "Universidades | Quiénes Sirven - Mars Challenge",
+            "new_description": "Descubre Universidades en Mars Challenge. Información sobre participantes, beneficios y cómo formar parte del movimiento global.",
+            "new_keyword": "universidades, mars challenge, quienes-sirven",
+            "status": "success"
+        },
+        {
+            "id": 4242,
+            "type": "quienes-sirven",
+            "old_title": "Empresas",
+            "new_title": "Empresas | Quiénes Sirven - Mars Challenge",
+            "new_description": "Descubre Empresas en Mars Challenge. Información sobre participantes, beneficios y cómo formar parte del movimiento global.",
+            "new_keyword": "empresas, mars challenge, quienes-sirven",
+            "status": "success"
+        },
+        {
+            "id": 4177,
+            "type": "quienes-sirven",
+            "old_title": "Ciudades y gobiernos locales",
+            "new_title": "Ciudades y gobiernos locales | Quiénes Sirven - Mars Challenge",
+            "new_description": "Descubre Ciudades y gobiernos locales en Mars Challenge. Información sobre participantes, beneficios y cómo formar parte del movimiento global.",
+            "new_keyword": "ciudades y gobiernos locales, mars challenge, quienes-sirven",
+            "status": "success"
+        },
+        {
+            "id": 2656,
+            "type": "participa",
+            "old_title": "Países",
+            "new_title": "Países | Participa en Mars Challenge",
+            "new_description": "Participa: Países en Mars Challenge. Únete al reto global de innovación y sostenibilidad para jóvenes y educadores.",
+            "new_keyword": "países, mars challenge, participa",
+            "status": "success"
+        },
+        {
+            "id": 2653,
+            "type": "participa",
+            "old_title": "Ciudades y estados",
+            "new_title": "Ciudades y estados | Participa en Mars Challenge",
+            "new_description": "Participa: Ciudades y estados en Mars Challenge. Únete al reto global de innovación y sostenibilidad para jóvenes y educadores.",
+            "new_keyword": "ciudades y estados, mars challenge, participa",
+            "status": "success"
+        },
+        {
+            "id": 2649,
+            "type": "participa",
+            "old_title": "Empresas",
+            "new_title": "Empresas | Participa en Mars Challenge",
+            "new_description": "Participa: Empresas en Mars Challenge. Únete al reto global de innovación y sostenibilidad para jóvenes y educadores.",
+            "new_keyword": "empresas, mars challenge, participa",
+            "status": "success"
+        },
+        {
+            "id": 2643,
+            "type": "participa",
+            "old_title": "Instituciones",
+            "new_title": "Instituciones | Participa en Mars Challenge",
+            "new_description": "Participa: Instituciones en Mars Challenge. Únete al reto global de innovación y sostenibilidad para jóvenes y educadores.",
+            "new_keyword": "instituciones, mars challenge, participa",
+            "status": "success"
+        },
+        {
+            "id": 2636,
+            "type": "participa",
+            "old_title": "Docentes y mentores",
+            "new_title": "Docentes y mentores | Participa en Mars Challenge",
+            "new_description": "Participa: Docentes y mentores en Mars Challenge. Únete al reto global de innovación y sostenibilidad para jóvenes y educadores.",
+            "new_keyword": "docentes y mentores, mars challenge, participa",
+            "status": "success"
+        },
+        {
+            "id": 2286,
+            "type": "participa",
+            "old_title": "Estudiantes",
+            "new_title": "Estudiantes | Participa en Mars Challenge",
+            "new_description": "Participa: Estudiantes en Mars Challenge. Únete al reto global de innovación y sostenibilidad para jóvenes y educadores.",
+            "new_keyword": "estudiantes, mars challenge, participa",
+            "status": "success"
+        },
+        {
+            "id": 2119,
+            "type": "tematicas_y_elemento",
+            "old_title": "2026 — Tierra (Convocatoria abierta)",
+            "new_title": "2026 — Tierra (Convocatoria abierta) | Temáticas Mars Challenge",
+            "new_description": "Explora 2026 — Tierra (Convocatoria abierta) - Temática Mars Challenge. Retos de innovación dual-planeta: soluciones para la Tierra y Marte.",
+            "new_keyword": "2026 — tierra (convocatoria abierta), mars challenge, tematicas y elemento",
+            "status": "success"
+        },
+        {
+            "id": 2116,
+            "type": "tematicas_y_elemento",
+            "old_title": "2025 — Fuego",
+            "new_title": "2025 — Fuego | Temáticas Mars Challenge",
+            "new_description": "Explora 2025 — Fuego - Temática Mars Challenge. Retos de innovación dual-planeta: soluciones para la Tierra y Marte.",
+            "new_keyword": "2025 — fuego, mars challenge, tematicas y elemento",
+            "status": "success"
+        },
+        {
+            "id": 2113,
+            "type": "tematicas_y_elemento",
+            "old_title": "2024 — Agua",
+            "new_title": "2024 — Agua | Temáticas Mars Challenge",
+            "new_description": "Explora 2024 — Agua - Temática Mars Challenge. Retos de innovación dual-planeta: soluciones para la Tierra y Marte.",
+            "new_keyword": "2024 — agua, mars challenge, tematicas y elemento",
+            "status": "success"
+        },
+        {
+            "id": 2082,
+            "type": "tematicas_y_elemento",
+            "old_title": "2023 — Génesis",
+            "new_title": "2023 — Génesis | Temáticas Mars Challenge",
+            "new_description": "Explora 2023 — Génesis - Temática Mars Challenge. Retos de innovación dual-planeta: soluciones para la Tierra y Marte.",
+            "new_keyword": "2023 — génesis, mars challenge, tematicas y elemento",
+            "status": "success"
+        },
+        {
+            "id": 5849,
+            "type": "logos",
+            "old_title": "Secretaria de innovación y desarrollo",
+            "new_title": "Secretaria de innovación y desarrollo | Mars Challenge",
+            "new_description": "Secretaria de innovación y desarrollo - Mars Challenge",
+            "new_keyword": "secretaria de innovación y desarrollo, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 5751,
+            "type": "logos",
+            "old_title": "ZODIAC AEROSPACE",
+            "new_title": "ZODIAC AEROSPACE | Mars Challenge",
+            "new_description": "ZODIAC AEROSPACE - Mars Challenge",
+            "new_keyword": "zodiac aerospace, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 5749,
+            "type": "logos",
+            "old_title": "TEXTRON AVIATION",
+            "new_title": "TEXTRON AVIATION | Mars Challenge",
+            "new_description": "TEXTRON AVIATION - Mars Challenge",
+            "new_keyword": "textron aviation, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 5747,
+            "type": "logos",
+            "old_title": "SAFRAN",
+            "new_title": "SAFRAN | Mars Challenge",
+            "new_description": "SAFRAN - Mars Challenge",
+            "new_keyword": "safran, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 5745,
+            "type": "logos",
+            "old_title": "OPTIMEN",
+            "new_title": "OPTIMEN | Mars Challenge",
+            "new_description": "OPTIMEN - Mars Challenge",
+            "new_keyword": "optimen, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 5743,
+            "type": "logos",
+            "old_title": "ITP AERO",
+            "new_title": "ITP AERO | Mars Challenge",
+            "new_description": "ITP AERO - Mars Challenge",
+            "new_keyword": "itp aero, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 5741,
+            "type": "logos",
+            "old_title": "INNOVA ENGINEERED PLASTICS",
+            "new_title": "INNOVA ENGINEERED PLASTICS | Mars Challenge",
+            "new_description": "INNOVA ENGINEERED PLASTICS - Mars Challenge",
+            "new_keyword": "innova engineered plastics, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 5739,
+            "type": "logos",
+            "old_title": "INDEQ",
+            "new_title": "INDEQ | Mars Challenge",
+            "new_description": "INDEQ - Mars Challenge",
+            "new_keyword": "indeq, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 5737,
+            "type": "logos",
+            "old_title": "HONEYWELL",
+            "new_title": "HONEYWELL | Mars Challenge",
+            "new_description": "HONEYWELL - Mars Challenge",
+            "new_keyword": "honeywell, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 5735,
+            "type": "logos",
+            "old_title": "HEROUX DEVTEK",
+            "new_title": "HEROUX DEVTEK | Mars Challenge",
+            "new_description": "HEROUX DEVTEK - Mars Challenge",
+            "new_keyword": "heroux devtek, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 5733,
+            "type": "logos",
+            "old_title": "GULFSTREAM",
+            "new_title": "GULFSTREAM | Mars Challenge",
+            "new_description": "GULFSTREAM - Mars Challenge",
+            "new_keyword": "gulfstream, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 5731,
+            "type": "logos",
+            "old_title": "GE AEROSPACE",
+            "new_title": "GE AEROSPACE | Mars Challenge",
+            "new_description": "GE AEROSPACE - Mars Challenge",
+            "new_keyword": "ge aerospace, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 5729,
+            "type": "logos",
+            "old_title": "DUPONT",
+            "new_title": "DUPONT | Mars Challenge",
+            "new_description": "DUPONT - Mars Challenge",
+            "new_keyword": "dupont, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 5727,
+            "type": "logos",
+            "old_title": "COLLINS AEROSPACE",
+            "new_title": "COLLINS AEROSPACE | Mars Challenge",
+            "new_description": "COLLINS AEROSPACE - Mars Challenge",
+            "new_keyword": "collins aerospace, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 5725,
+            "type": "logos",
+            "old_title": "BOMBARDIER AEROSPACE",
+            "new_title": "BOMBARDIER AEROSPACE | Mars Challenge",
+            "new_description": "BOMBARDIER AEROSPACE - Mars Challenge",
+            "new_keyword": "bombardier aerospace, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 5723,
+            "type": "logos",
+            "old_title": "BOEING",
+            "new_title": "BOEING | Mars Challenge",
+            "new_description": "BOEING - Mars Challenge",
+            "new_keyword": "boeing, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 5721,
+            "type": "logos",
+            "old_title": "ASCENT AEROSPACE",
+            "new_title": "ASCENT AEROSPACE | Mars Challenge",
+            "new_description": "ASCENT AEROSPACE - Mars Challenge",
+            "new_keyword": "ascent aerospace, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 5719,
+            "type": "logos",
+            "old_title": "AMERICAN INDUSTRIES",
+            "new_title": "AMERICAN INDUSTRIES | Mars Challenge",
+            "new_description": "AMERICAN INDUSTRIES - Mars Challenge",
+            "new_keyword": "american industries, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 5717,
+            "type": "logos",
+            "old_title": "AIRBUS",
+            "new_title": "AIRBUS | Mars Challenge",
+            "new_description": "AIRBUS - Mars Challenge",
+            "new_keyword": "airbus, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 5715,
+            "type": "logos",
+            "old_title": "AEROCLUSTER",
+            "new_title": "AEROCLUSTER | Mars Challenge",
+            "new_description": "AEROCLUSTER - Mars Challenge",
+            "new_keyword": "aerocluster, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 5713,
+            "type": "logos",
+            "old_title": "AERNNOVA",
+            "new_title": "AERNNOVA | Mars Challenge",
+            "new_description": "AERNNOVA - Mars Challenge",
+            "new_keyword": "aernnova, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 5530,
+            "type": "logos",
+            "old_title": "Tech &amp; Learning Awards 2025",
+            "new_title": "Tech &amp; Learning Awards 2025 | Mars Challenge",
+            "new_description": "Tech &amp; Learning Awards 2025 - Mars Challenge",
+            "new_keyword": "tech &amp; learning awards 2025, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 5282,
+            "type": "logos",
+            "old_title": "ReImagine Education Awards",
+            "new_title": "ReImagine Education Awards | Mars Challenge",
+            "new_description": "ReImagine Education Awards - Mars Challenge",
+            "new_keyword": "reimagine education awards, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 5280,
+            "type": "logos",
+            "old_title": "GESS Education Awards 2025",
+            "new_title": "GESS Education Awards 2025 | Mars Challenge",
+            "new_description": "GESS Education Awards 2025 - Mars Challenge",
+            "new_keyword": "gess education awards 2025, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 5091,
+            "type": "logos",
+            "old_title": "Secretaria de Educación Chihuahua",
+            "new_title": "Secretaria de Educación Chihuahua | Mars Challenge",
+            "new_description": "Secretaria de Educación Chihuahua - Mars Challenge",
+            "new_keyword": "secretaria de educación chihuahua, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 1338,
+            "type": "logos",
+            "old_title": "ESA",
+            "new_title": "ESA | Mars Challenge",
+            "new_description": "ESA - Mars Challenge",
+            "new_keyword": "esa, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 1336,
+            "type": "logos",
+            "old_title": "Houston Space center\/ NASA(colaboración individual)",
+            "new_title": "Houston Space center\/ NASA(colaboración individual) | Mars Challenge",
+            "new_description": "Houston Space center\/ NASA(colaboración individual) - Mars Challenge",
+            "new_keyword": "houston space center\/ nasa(colaboración individual), mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 1334,
+            "type": "logos",
+            "old_title": "FEMIA",
+            "new_title": "FEMIA | Mars Challenge",
+            "new_description": "FEMIA - Mars Challenge",
+            "new_keyword": "femia, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 1332,
+            "type": "logos",
+            "old_title": "Space Talent Lab",
+            "new_title": "Space Talent Lab | Mars Challenge",
+            "new_description": "Space Talent Lab - Mars Challenge",
+            "new_keyword": "space talent lab, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 1329,
+            "type": "logos",
+            "old_title": "VIRTUAL EDUCA",
+            "new_title": "VIRTUAL EDUCA | Mars Challenge",
+            "new_description": "VIRTUAL EDUCA - Mars Challenge",
+            "new_keyword": "virtual educa, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 876,
+            "type": "logos",
+            "old_title": "Edupan",
+            "new_title": "Edupan | Mars Challenge",
+            "new_description": "Edupan - Mars Challenge",
+            "new_keyword": "edupan, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 874,
+            "type": "logos",
+            "old_title": "Buen Data",
+            "new_title": "Buen Data | Mars Challenge",
+            "new_description": "Buen Data - Mars Challenge",
+            "new_keyword": "buen data, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 872,
+            "type": "logos",
+            "old_title": "Lifelong",
+            "new_title": "Lifelong | Mars Challenge",
+            "new_description": "Lifelong - Mars Challenge",
+            "new_keyword": "lifelong, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 870,
+            "type": "logos",
+            "old_title": "Griky",
+            "new_title": "Griky | Mars Challenge",
+            "new_description": "Griky - Mars Challenge",
+            "new_keyword": "griky, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 868,
+            "type": "logos",
+            "old_title": "RoboRobo",
+            "new_title": "RoboRobo | Mars Challenge",
+            "new_description": "RoboRobo - Mars Challenge",
+            "new_keyword": "roborobo, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 866,
+            "type": "logos",
+            "old_title": "Latourette",
+            "new_title": "Latourette | Mars Challenge",
+            "new_description": "Latourette - Mars Challenge",
+            "new_keyword": "latourette, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 863,
+            "type": "logos",
+            "old_title": "CUCO",
+            "new_title": "CUCO | Mars Challenge",
+            "new_description": "CUCO - Mars Challenge",
+            "new_keyword": "cuco, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 862,
+            "type": "logos",
+            "old_title": "Qualcomm",
+            "new_title": "Qualcomm | Mars Challenge",
+            "new_description": "Qualcomm - Mars Challenge",
+            "new_keyword": "qualcomm, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 860,
+            "type": "logos",
+            "old_title": "AEC",
+            "new_title": "AEC | Mars Challenge",
+            "new_description": "AEC - Mars Challenge",
+            "new_keyword": "aec, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 858,
+            "type": "logos",
+            "old_title": "Ayuntamiento de Getafe",
+            "new_title": "Ayuntamiento de Getafe | Mars Challenge",
+            "new_description": "Ayuntamiento de Getafe - Mars Challenge",
+            "new_keyword": "ayuntamiento de getafe, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 855,
+            "type": "logos",
+            "old_title": "Getafe Iniciativas",
+            "new_title": "Getafe Iniciativas | Mars Challenge",
+            "new_description": "Getafe Iniciativas - Mars Challenge",
+            "new_keyword": "getafe iniciativas, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 854,
+            "type": "logos",
+            "old_title": "Departamento de educación",
+            "new_title": "Departamento de educación | Mars Challenge",
+            "new_description": "Departamento de educación - Mars Challenge",
+            "new_keyword": "departamento de educación, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 852,
+            "type": "logos",
+            "old_title": "ISTE",
+            "new_title": "ISTE | Mars Challenge",
+            "new_description": "ISTE - Mars Challenge",
+            "new_keyword": "iste, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 850,
+            "type": "logos",
+            "old_title": "Ruta N",
+            "new_title": "Ruta N | Mars Challenge",
+            "new_description": "Ruta N - Mars Challenge",
+            "new_keyword": "ruta n, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 848,
+            "type": "logos",
+            "old_title": "Space Center Houston",
+            "new_title": "Space Center Houston | Mars Challenge",
+            "new_description": "Space Center Houston - Mars Challenge",
+            "new_keyword": "space center houston, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 846,
+            "type": "logos",
+            "old_title": "Space Talent Lab",
+            "new_title": "Space Talent Lab | Mars Challenge",
+            "new_description": "Space Talent Lab - Mars Challenge",
+            "new_keyword": "space talent lab, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 843,
+            "type": "logos",
+            "old_title": "Parlamento",
+            "new_title": "Parlamento | Mars Challenge",
+            "new_description": "Parlamento - Mars Challenge",
+            "new_keyword": "parlamento, mars challenge, logos",
+            "status": "success"
+        },
+        {
+            "id": 648,
+            "type": "testimonios",
+            "old_title": "Carolina Londoño Peláez",
+            "new_title": "Carolina Londoño Peláez | Testimonios Mars Challenge",
+            "new_description": "Testimonio: Carolina Londoño Peláez. Experiencias reales de participantes en Mars Challenge, el reto global de innovación espacial.",
+            "new_keyword": "carolina londoño peláez, mars challenge, testimonios",
+            "status": "success"
+        },
+        {
+            "id": 646,
+            "type": "testimonios",
+            "old_title": "Alejandro Gavarrete",
+            "new_title": "Alejandro Gavarrete | Testimonios Mars Challenge",
+            "new_description": "Testimonio: Alejandro Gavarrete. Experiencias reales de participantes en Mars Challenge, el reto global de innovación espacial.",
+            "new_keyword": "alejandro gavarrete, mars challenge, testimonios",
+            "status": "success"
+        },
+        {
+            "id": 644,
+            "type": "testimonios",
+            "old_title": "María Alejandra Gaviria",
+            "new_title": "María Alejandra Gaviria | Testimonios Mars Challenge",
+            "new_description": "Testimonio: María Alejandra Gaviria. Experiencias reales de participantes en Mars Challenge, el reto global de innovación espacial.",
+            "new_keyword": "maría alejandra gaviria, mars challenge, testimonios",
+            "status": "success"
+        },
+        {
+            "id": 642,
+            "type": "testimonios",
+            "old_title": "Nayeli Abreu",
+            "new_title": "Nayeli Abreu | Testimonios Mars Challenge",
+            "new_description": "Testimonio: Nayeli Abreu. Experiencias reales de participantes en Mars Challenge, el reto global de innovación espacial.",
+            "new_keyword": "nayeli abreu, mars challenge, testimonios",
+            "status": "success"
+        },
+        {
+            "id": 636,
+            "type": "testimonios",
+            "old_title": "Sofía Mena",
+            "new_title": "Sofía Mena | Testimonios Mars Challenge",
+            "new_description": "Testimonio: Sofía Mena. Experiencias reales de participantes en Mars Challenge, el reto global de innovación espacial.",
+            "new_keyword": "sofía mena, mars challenge, testimonios",
+            "status": "success"
+        },
+        {
+            "id": 4430,
+            "type": "country_page",
+            "old_title": "México",
+            "new_title": "Mars Challenge México | País Participante",
+            "new_description": "Mars Challenge México - Página oficial del país. Descubre cómo participar en el reto global de innovación dual-planeta.",
+            "new_keyword": "méxico, mars challenge, country page",
+            "status": "success"
+        }
+    ]
+}

@@ -1,0 +1,266 @@
+{
+    "timestamp": "2025-11-28 14:44:16",
+    "site": "https:\/\/marschallenge.space",
+    "total_items": 51,
+    "with_description": 0,
+    "missing_description": 51,
+    "previous_missing": 53,
+    "improvement": 2,
+    "missing_items": [
+        {
+            "id": 1200,
+            "title": "Jóvenes puertorriqueños rumbo a Madrid",
+            "url": "https:\/\/marschallenge.space\/jovenes-puertorriquenos-rumbo-a-madrid\/"
+        },
+        {
+            "id": 1197,
+            "title": "Reto Marte en Costa Rica",
+            "url": "https:\/\/marschallenge.space\/reto-marte-en-costa-rica\/"
+        },
+        {
+            "id": 1193,
+            "title": "Final Reto Marte 2024 — Madrid",
+            "url": "https:\/\/marschallenge.space\/final-reto-marte-2024-madrid\/"
+        },
+        {
+            "id": 2898,
+            "title": "Agua",
+            "url": "https:\/\/marschallenge.space\/agua\/"
+        },
+        {
+            "id": 2883,
+            "title": "Fuego",
+            "url": "https:\/\/marschallenge.space\/fuego\/"
+        },
+        {
+            "id": 2864,
+            "title": "Genesis",
+            "url": "https:\/\/marschallenge.space\/genesis\/"
+        },
+        {
+            "id": 2747,
+            "title": "voices",
+            "url": "https:\/\/marschallenge.space\/voices\/"
+        },
+        {
+            "id": 1521,
+            "title": "Registro",
+            "url": "https:\/\/marschallenge.space\/registro\/"
+        },
+        {
+            "id": 178,
+            "title": "No Planet B. Just A Better Plan",
+            "url": "https:\/\/marschallenge.space\/sobre\/no-planet-b-just-a-better-plan\/"
+        },
+        {
+            "id": 93,
+            "title": "Ciudades y gobiernos locales",
+            "url": "https:\/\/marschallenge.space\/quien-sirve\/ciudades-y-gobiernos-locales\/"
+        },
+        {
+            "id": 91,
+            "title": "Empresas",
+            "url": "https:\/\/marschallenge.space\/quien-sirve\/empresas\/"
+        },
+        {
+            "id": 89,
+            "title": "Universidades",
+            "url": "https:\/\/marschallenge.space\/quien-sirve\/universidades\/"
+        },
+        {
+            "id": 87,
+            "title": "Otras instituciones",
+            "url": "https:\/\/marschallenge.space\/quien-sirve\/otras-instituciones\/"
+        },
+        {
+            "id": 85,
+            "title": "Colegios y escuelas",
+            "url": "https:\/\/marschallenge.space\/quien-sirve\/colegios-y-escuelas\/"
+        },
+        {
+            "id": 83,
+            "title": "Maestros (Mission One Teacher \/ Mission Mentor)",
+            "url": "https:\/\/marschallenge.space\/quien-sirve\/maestros-mission-one-teacher-mission-mentor\/"
+        },
+        {
+            "id": 81,
+            "title": "Jóvenes (Zers)",
+            "url": "https:\/\/marschallenge.space\/quien-sirve\/jovenes-zers\/"
+        },
+        {
+            "id": 79,
+            "title": "Mapa interactivo",
+            "url": "https:\/\/marschallenge.space\/encuentra-un-mars-challenge\/mapa-interactivo\/"
+        },
+        {
+            "id": 77,
+            "title": "Instituciones líderes",
+            "url": "https:\/\/marschallenge.space\/encuentra-un-mars-challenge\/instituciones-lideres\/"
+        },
+        {
+            "id": 75,
+            "title": "Mars Challenge Cities",
+            "url": "https:\/\/marschallenge.space\/encuentra-un-mars-challenge\/mars-challenge-cities\/"
+        },
+        {
+            "id": 73,
+            "title": "Encuentra tu país",
+            "url": "https:\/\/marschallenge.space\/encuentra-un-mars-challenge\/encuentra-tu-pais\/"
+        },
+        {
+            "id": 71,
+            "title": "Corporate Social Responsibility (CSR)",
+            "url": "https:\/\/marschallenge.space\/empresas\/corporate-social-responsibility-csr\/"
+        },
+        {
+            "id": 69,
+            "title": "Planes y benefícios",
+            "url": "https:\/\/marschallenge.space\/empresas\/planes-y-beneficios\/"
+        },
+        {
+            "id": 67,
+            "title": "Sello Best Space &amp; Earth 2026",
+            "url": "https:\/\/marschallenge.space\/empresas\/sello-best-space-earth-2026\/"
+        },
+        {
+            "id": 65,
+            "title": "Cómo colaborar",
+            "url": "https:\/\/marschallenge.space\/empresas\/como-colaborar\/"
+        },
+        {
+            "id": 63,
+            "title": "Premio Houston Space Center",
+            "url": "https:\/\/marschallenge.space\/hackimpacto\/premios-y-reconocimientos\/premio-houston-space-center\/"
+        },
+        {
+            "id": 61,
+            "title": "Final Internacional Madrid 2026",
+            "url": "https:\/\/marschallenge.space\/hackimpacto\/premios-y-reconocimientos\/final-internacional-madrid-2026\/"
+        },
+        {
+            "id": 59,
+            "title": "Premios y reconocimientos",
+            "url": "https:\/\/marschallenge.space\/hackimpacto\/premios-y-reconocimientos\/"
+        },
+        {
+            "id": 57,
+            "title": "Fases del reto",
+            "url": "https:\/\/marschallenge.space\/hackimpacto\/fases-del-reto\/"
+        },
+        {
+            "id": 55,
+            "title": "¿Qué es HackImpacto?",
+            "url": "https:\/\/marschallenge.space\/hackimpacto\/que-es-hackimpacto\/"
+        },
+        {
+            "id": 53,
+            "title": "¿Qué es un hackathón?",
+            "url": "https:\/\/marschallenge.space\/hackimpacto\/que-es-un-hackathon\/"
+        },
+        {
+            "id": 51,
+            "title": "Registro de países",
+            "url": "https:\/\/marschallenge.space\/participar\/registro-de-paises\/"
+        },
+        {
+            "id": 49,
+            "title": "Registro de ciudades y estados",
+            "url": "https:\/\/marschallenge.space\/participar\/registro-de-ciudades-y-estados\/"
+        },
+        {
+            "id": 47,
+            "title": "Registro de empresas",
+            "url": "https:\/\/marschallenge.space\/participar\/registro-de-empresas\/"
+        },
+        {
+            "id": 45,
+            "title": "Registro de instituciones",
+            "url": "https:\/\/marschallenge.space\/participar\/registro-de-instituciones\/"
+        },
+        {
+            "id": 43,
+            "title": "Registro de docentes y mentores",
+            "url": "https:\/\/marschallenge.space\/participar\/registro-de-docentes-y-mentores\/"
+        },
+        {
+            "id": 41,
+            "title": "Registro de estudiantes",
+            "url": "https:\/\/marschallenge.space\/participar\/registro-de-estudiantes\/"
+        },
+        {
+            "id": 39,
+            "title": "Convocatoria actual — 2026 Tierra",
+            "url": "https:\/\/marschallenge.space\/participar\/convocatoria-actual-2026-tierra\/"
+        },
+        {
+            "id": 37,
+            "title": "Cómo participar",
+            "url": "https:\/\/marschallenge.space\/participar\/como-participar\/"
+        },
+        {
+            "id": 35,
+            "title": "Innovación dual-planeta",
+            "url": "https:\/\/marschallenge.space\/sobre\/innovacion-dual-planeta\/"
+        },
+        {
+            "id": 33,
+            "title": "Investigadores",
+            "url": "https:\/\/marschallenge.space\/sobre\/investigadores\/"
+        },
+        {
+            "id": 31,
+            "title": "Aliados estratégicos",
+            "url": "https:\/\/marschallenge.space\/sobre\/aliados-estrategicos\/"
+        },
+        {
+            "id": 29,
+            "title": "Prensa",
+            "url": "https:\/\/marschallenge.space\/sobre\/prensa\/"
+        },
+        {
+            "id": 27,
+            "title": "Mars Challenge",
+            "url": "https:\/\/marschallenge.space\/sobre\/mars-challenge\/"
+        },
+        {
+            "id": 25,
+            "title": "Quien sirve",
+            "url": "https:\/\/marschallenge.space\/quien-sirve\/"
+        },
+        {
+            "id": 23,
+            "title": "Encuentra un Mars Challenge",
+            "url": "https:\/\/marschallenge.space\/encuentra-un-mars-challenge\/"
+        },
+        {
+            "id": 21,
+            "title": "Empresas &#8211; Particular",
+            "url": "https:\/\/marschallenge.space\/empresas\/"
+        },
+        {
+            "id": 19,
+            "title": "Seasons",
+            "url": "https:\/\/marschallenge.space\/seasons\/"
+        },
+        {
+            "id": 17,
+            "title": "HackImpacto",
+            "url": "https:\/\/marschallenge.space\/hackimpacto\/"
+        },
+        {
+            "id": 15,
+            "title": "Participa",
+            "url": "https:\/\/marschallenge.space\/participar\/"
+        },
+        {
+            "id": 13,
+            "title": "Sobre",
+            "url": "https:\/\/marschallenge.space\/sobre\/"
+        },
+        {
+            "id": 10,
+            "title": "Inicio",
+            "url": "https:\/\/marschallenge.space\/"
+        }
+    ]
+}

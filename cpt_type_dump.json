@@ -1,0 +1,39 @@
+{
+    "code": 200,
+    "body": {
+        "description": "",
+        "hierarchical": false,
+        "has_archive": false,
+        "name": "Proyectos Destacados",
+        "slug": "proyectos_destacados",
+        "icon": null,
+        "taxonomies": [
+            "nombre_pais",
+            "ano",
+            "country"
+        ],
+        "rest_base": "proyectos_destacados",
+        "rest_namespace": "wp\/v2",
+        "template": [],
+        "template_lock": false,
+        "_links": {
+            "collection": [
+                {
+                    "href": "https:\/\/marschallenge.space\/wp-json\/wp\/v2\/types"
+                }
+            ],
+            "wp:items": [
+                {
+                    "href": "https:\/\/marschallenge.space\/wp-json\/wp\/v2\/proyectos_destacados"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    }
+}

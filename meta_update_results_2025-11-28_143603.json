@@ -1,0 +1,410 @@
+{
+    "timestamp": "2025-11-28 14:36:03",
+    "total_processed": 51,
+    "success": 3,
+    "errors": 48,
+    "results": [
+        {
+            "id": 1200,
+            "title": "Jóvenes puertorriqueños rumbo a Madrid",
+            "description": "Descubre Jóvenes puertorriqueños rumbo a Madrid en Mars Challenge. Únete al movimiento global de innovación dual-planeta para crear soluciones sostenible...",
+            "status": "success"
+        },
+        {
+            "id": 1197,
+            "title": "Reto Marte en Costa Rica",
+            "description": "Descubre Reto Marte en Costa Rica en Mars Challenge. Únete al movimiento global de innovación dual-planeta para crear soluciones sostenibles para la Tierra...",
+            "status": "success"
+        },
+        {
+            "id": 1193,
+            "title": "Final Reto Marte 2024 — Madrid",
+            "description": "Descubre Final Reto Marte 2024 — Madrid en Mars Challenge. Únete al movimiento global de innovación dual-planeta para crear soluciones sostenibles para l...",
+            "status": "success"
+        },
+        {
+            "id": 2898,
+            "title": "Agua",
+            "description": "Explora Agua de Mars Challenge. Retos temáticos de innovación: Agua, Fuego, Genesis y más.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 2883,
+            "title": "Fuego",
+            "description": "Explora Fuego de Mars Challenge. Retos temáticos de innovación: Agua, Fuego, Genesis y más.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 2864,
+            "title": "Genesis",
+            "description": "Explora Genesis de Mars Challenge. Retos temáticos de innovación: Agua, Fuego, Genesis y más.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 2747,
+            "title": "voices",
+            "description": "Explora voices de Mars Challenge. Retos temáticos de innovación: Agua, Fuego, Genesis y más.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 1521,
+            "title": "Registro",
+            "description": "Regístrate en Mars Challenge y participa en el reto global de innovación. Registro para formar parte del cambio.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 178,
+            "title": "No Planet B. Just A Better Plan",
+            "description": "Conoce más sobre No Planet B. Just A Better Plan en Mars Challenge. Innovación, educación y sostenibilidad para un futuro mejor en la Tierra y Marte.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 93,
+            "title": "Ciudades y gobiernos locales",
+            "description": "Descubre Ciudades y gobiernos locales en Mars Challenge. Únete al movimiento global de innovación dual-planeta para crear soluciones sostenibles para la Ti...",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 91,
+            "title": "Empresas",
+            "description": "Empresas para empresas en Mars Challenge. Responsabilidad social corporativa e innovación sostenible.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 89,
+            "title": "Universidades",
+            "description": "Descubre Universidades en Mars Challenge. Únete al movimiento global de innovación dual-planeta para crear soluciones sostenibles para la Tierra y Marte.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 87,
+            "title": "Otras instituciones",
+            "description": "Descubre Otras instituciones en Mars Challenge. Únete al movimiento global de innovación dual-planeta para crear soluciones sostenibles para la Tierra y Ma...",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 85,
+            "title": "Colegios y escuelas",
+            "description": "Descubre Colegios y escuelas en Mars Challenge. Únete al movimiento global de innovación dual-planeta para crear soluciones sostenibles para la Tierra y Ma...",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 83,
+            "title": "Maestros (Mission One Teacher \/ Mission Mentor)",
+            "description": "Descubre Maestros (Mission One Teacher \/ Mission Mentor) en Mars Challenge. Únete al movimiento global de innovación dual-planeta para crear soluciones sos...",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 81,
+            "title": "Jóvenes (Zers)",
+            "description": "Descubre Jóvenes (Zers) en Mars Challenge. Únete al movimiento global de innovación dual-planeta para crear soluciones sostenibles para la Tierra y Marte.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 79,
+            "title": "Mapa interactivo",
+            "description": "Descubre Mapa interactivo en Mars Challenge. Únete al movimiento global de innovación dual-planeta para crear soluciones sostenibles para la Tierra y Marte.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 77,
+            "title": "Instituciones líderes",
+            "description": "Descubre Instituciones líderes en Mars Challenge. Únete al movimiento global de innovación dual-planeta para crear soluciones sostenibles para la Tierra y...",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 75,
+            "title": "Mars Challenge Cities",
+            "description": "Descubre Mars Challenge Cities en Mars Challenge. Únete al movimiento global de innovación dual-planeta para crear soluciones sostenibles para la Tierra y ...",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 73,
+            "title": "Encuentra tu país",
+            "description": "Descubre Encuentra tu país en Mars Challenge. Únete al movimiento global de innovación dual-planeta para crear soluciones sostenibles para la Tierra y Marte.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 71,
+            "title": "Corporate Social Responsibility (CSR)",
+            "description": "Corporate Social Responsibility (CSR) para empresas en Mars Challenge. Responsabilidad social corporativa e innovación sostenible.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 69,
+            "title": "Planes y benefícios",
+            "description": "Planes y benefícios para empresas en Mars Challenge. Responsabilidad social corporativa e innovación sostenible.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 67,
+            "title": "Sello Best Space &amp; Earth 2026",
+            "description": "Sello Best Space &amp; Earth 2026 para empresas en Mars Challenge. Responsabilidad social corporativa e innovación sostenible.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 65,
+            "title": "Cómo colaborar",
+            "description": "Cómo colaborar para empresas en Mars Challenge. Responsabilidad social corporativa e innovación sostenible.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 63,
+            "title": "Premio Houston Space Center",
+            "description": "Premio Houston Space Center - HackImpacto Mars Challenge. Participa en el hackathon global de innovación dual-planeta y gana premios internacionales.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 61,
+            "title": "Final Internacional Madrid 2026",
+            "description": "Final Internacional Madrid 2026 - HackImpacto Mars Challenge. Participa en el hackathon global de innovación dual-planeta y gana premios internacionales.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 59,
+            "title": "Premios y reconocimientos",
+            "description": "Premios y reconocimientos - HackImpacto Mars Challenge. Participa en el hackathon global de innovación dual-planeta y gana premios internacionales.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 57,
+            "title": "Fases del reto",
+            "description": "Fases del reto - HackImpacto Mars Challenge. Participa en el hackathon global de innovación dual-planeta y gana premios internacionales.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 55,
+            "title": "¿Qué es HackImpacto?",
+            "description": "¿Qué es HackImpacto? - HackImpacto Mars Challenge. Participa en el hackathon global de innovación dual-planeta y gana premios internacionales.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 53,
+            "title": "¿Qué es un hackathón?",
+            "description": "¿Qué es un hackathón? - HackImpacto Mars Challenge. Participa en el hackathon global de innovación dual-planeta y gana premios internacionales.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 51,
+            "title": "Registro de países",
+            "description": "Regístrate en Mars Challenge y participa en el reto global de innovación. Registro de países para formar parte del cambio.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 49,
+            "title": "Registro de ciudades y estados",
+            "description": "Regístrate en Mars Challenge y participa en el reto global de innovación. Registro de ciudades y estados para formar parte del cambio.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 47,
+            "title": "Registro de empresas",
+            "description": "Regístrate en Mars Challenge y participa en el reto global de innovación. Registro de empresas para formar parte del cambio.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 45,
+            "title": "Registro de instituciones",
+            "description": "Regístrate en Mars Challenge y participa en el reto global de innovación. Registro de instituciones para formar parte del cambio.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 43,
+            "title": "Registro de docentes y mentores",
+            "description": "Regístrate en Mars Challenge y participa en el reto global de innovación. Registro de docentes y mentores para formar parte del cambio.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 41,
+            "title": "Registro de estudiantes",
+            "description": "Regístrate en Mars Challenge y participa en el reto global de innovación. Registro de estudiantes para formar parte del cambio.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 39,
+            "title": "Convocatoria actual — 2026 Tierra",
+            "description": "Convocatoria actual — 2026 Tierra en Mars Challenge. Únete al reto global de innovación y sostenibilidad para jóvenes y educadores.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 37,
+            "title": "Cómo participar",
+            "description": "Cómo participar en Mars Challenge. Únete al reto global de innovación y sostenibilidad para jóvenes y educadores.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 35,
+            "title": "Innovación dual-planeta",
+            "description": "Conoce más sobre Innovación dual-planeta en Mars Challenge. Innovación, educación y sostenibilidad para un futuro mejor en la Tierra y Marte.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 33,
+            "title": "Investigadores",
+            "description": "Conoce más sobre Investigadores en Mars Challenge. Innovación, educación y sostenibilidad para un futuro mejor en la Tierra y Marte.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 31,
+            "title": "Aliados estratégicos",
+            "description": "Conoce más sobre Aliados estratégicos en Mars Challenge. Innovación, educación y sostenibilidad para un futuro mejor en la Tierra y Marte.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 29,
+            "title": "Prensa",
+            "description": "Conoce más sobre Prensa en Mars Challenge. Innovación, educación y sostenibilidad para un futuro mejor en la Tierra y Marte.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 27,
+            "title": "Mars Challenge",
+            "description": "Conoce más sobre Mars Challenge en Mars Challenge. Innovación, educación y sostenibilidad para un futuro mejor en la Tierra y Marte.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 25,
+            "title": "Quien sirve",
+            "description": "Descubre Quien sirve en Mars Challenge. Únete al movimiento global de innovación dual-planeta para crear soluciones sostenibles para la Tierra y Marte.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 23,
+            "title": "Encuentra un Mars Challenge",
+            "description": "Descubre Encuentra un Mars Challenge en Mars Challenge. Únete al movimiento global de innovación dual-planeta para crear soluciones sostenibles para la Tie...",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 21,
+            "title": "Empresas &#8211; Particular",
+            "description": "Empresas &#8211; Particular para empresas en Mars Challenge. Responsabilidad social corporativa e innovación sostenible.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 19,
+            "title": "Seasons",
+            "description": "Descubre Seasons en Mars Challenge. Únete al movimiento global de innovación dual-planeta para crear soluciones sostenibles para la Tierra y Marte.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 17,
+            "title": "HackImpacto",
+            "description": "HackImpacto - HackImpacto Mars Challenge. Participa en el hackathon global de innovación dual-planeta y gana premios internacionales.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 15,
+            "title": "Participa",
+            "description": "Participa en Mars Challenge. Únete al reto global de innovación y sostenibilidad para jóvenes y educadores.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 13,
+            "title": "Sobre",
+            "description": "Conoce más sobre Sobre en Mars Challenge. Innovación, educación y sostenibilidad para un futuro mejor en la Tierra y Marte.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        },
+        {
+            "id": 10,
+            "title": "Inicio",
+            "description": "Descubre Inicio en Mars Challenge. Únete al movimiento global de innovación dual-planeta para crear soluciones sostenibles para la Tierra y Marte.",
+            "status": "error",
+            "error_code": 404,
+            "error_message": "El ID de la entrada no es válido."
+        }
+    ]
+}

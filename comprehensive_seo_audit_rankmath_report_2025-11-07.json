@@ -1,0 +1,516 @@
+{
+    "site": "https:\/\/marschallenge.space",
+    "analysis_date": "2025-11-07 14:29:55",
+    "title_analysis": {
+        "normal_duplicates": [],
+        "rankmath_duplicates": []
+    },
+    "description_analysis": {
+        "missing_descriptions": [
+            {
+                "id": 1200,
+                "type": "post",
+                "title": "J\u00f3venes puertorrique\u00f1os rumbo a Madrid",
+                "url": "https:\/\/marschallenge.space\/jovenes-puertorriquenos-rumbo-a-madrid\/",
+                "excerpt": "\u00abEstudiantes boricuas presentan proyecto que purifica agua en Marte.\u00bb",
+                "has_content": false,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 1197,
+                "type": "post",
+                "title": "Reto Marte en Costa Rica",
+                "url": "https:\/\/marschallenge.space\/reto-marte-en-costa-rica\/",
+                "excerpt": "\u00abM\u00e1s de 150 universitarios resuelven retos sobre el agua en Marte.\u00bb",
+                "has_content": false,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 1193,
+                "type": "post",
+                "title": "Final Reto Marte 2024 \u2014 Madrid",
+                "url": "https:\/\/marschallenge.space\/final-reto-marte-2024-madrid\/",
+                "excerpt": "\u00abEstudiantes de 6 pa\u00edses presentan soluciones para la gesti\u00f3n del agua en Marte y en la Tierra.\u00bb",
+                "has_content": false,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 2898,
+                "type": "page",
+                "title": "Agua",
+                "url": "https:\/\/marschallenge.space\/agua\/",
+                "excerpt": "\u00bfQu\u00e9 es Reto Marte Agua? Cada a\u00f1o, concentramos nuestros esfuerzos en uno de los siete elementos clave: Agua, Tierra, Aire, Fuego, Conciencia, Tecnolog\u00eda y Equilibrio. Esta fase inicial se extiende desde 2024 hasta 2030. En 2024, el elemento central de nuestro enfoque ser\u00e1 el agua. Por esta raz\u00f3n, en Reto Marte 2024, nos centraremos en [&hellip;]",
+                "has_content": true,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 2883,
+                "type": "page",
+                "title": "Fuego",
+                "url": "https:\/\/marschallenge.space\/fuego\/",
+                "excerpt": "Reto Marte 2025: Fuego es una edici\u00f3n del Reto Marte enfocada en desarrollar soluciones innovadoras para la gesti\u00f3n de energ\u00eda y recursos en condiciones extremas, como las que se presentan en Marte. Este reto busca impulsar la creatividad de los j\u00f3venes para enfrentar desaf\u00edos de energ\u00eda y sostenibilidad que impacten tanto en la Tierra como [&hellip;]",
+                "has_content": true,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 2864,
+                "type": "page",
+                "title": "Genesis",
+                "url": "https:\/\/marschallenge.space\/genesis\/",
+                "excerpt": "\u00a1Desaf\u00eda tus l\u00edmites!\u00a0\u00a1\u00danete al Reto Marte y ay\u00fadanos a construir un futuro mejor para la humanidad! \u00a0 Bienvenido al programa Reto Marte, una iniciativa que busca fomentar el aprendizaje experimental de los estudiantes y fortalecer sus habilidades blandas (soft skills) tales como el trabajo en equipo y el pensamiento cr\u00edtico y, asimismo, inculvar valores como [&hellip;]",
+                "has_content": true,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 2747,
+                "type": "page",
+                "title": "voices",
+                "url": "https:\/\/marschallenge.space\/voices\/",
+                "excerpt": "No Planet B. Just Better Plan. Crea tu foto. Agradece. Inspira. No hay Planeta B. Solo un Better Plan.",
+                "has_content": true,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 1521,
+                "type": "page",
+                "title": "Registro",
+                "url": "https:\/\/marschallenge.space\/registro\/",
+                "excerpt": "",
+                "has_content": true,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 178,
+                "type": "page",
+                "title": "No Planet B. Just A Better Plan",
+                "url": "https:\/\/marschallenge.space\/sobre\/no-planet-b-just-a-better-plan\/",
+                "excerpt": "No Planet B. Just A Better Plan. Crea tu foto. Agradece. Inspira. No hay Planeta B. Solo un Better Plan. Your world needs your voice. Speak before it\u2019s too late. Tu voz importa. S\u00famate al movimiento global. Crea tu foto ahora Mars Challenge Voices es un movimiento global que conecta personas dispuestas a usar su [&hellip;]",
+                "has_content": true,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 79,
+                "type": "page",
+                "title": "Mapa interactivo",
+                "url": "https:\/\/marschallenge.space\/encuentra-un-mars-challenge\/mapa-interactivo\/",
+                "excerpt": "RED GLOBAL MARS CHALLENGE Explora la red global de Mars Challenge. Descubre c\u00f3mo se conecta el talento, la innovaci\u00f3n y la colaboraci\u00f3n en todos los rincones del planeta a trav\u00e9s de nuestro mapa interactivo. En esta herramienta podr\u00e1s: Ver los pa\u00edses participantes y su estado de involucramiento.Identificar las Mars Challenge Cities y sus Space Talent [&hellip;]",
+                "has_content": true,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 77,
+                "type": "page",
+                "title": "Instituciones l\u00edderes",
+                "url": "https:\/\/marschallenge.space\/encuentra-un-mars-challenge\/instituciones-lideres\/",
+                "excerpt": "Los motores educativos y de innovaci\u00f3n de las Mars Challenge Cities. Una Mars Challenge City es mucho m\u00e1s que una sede de evento: es un centro vivo de colaboraci\u00f3n donde Zers, instituciones educativas, empresas y gobiernos locales trabajan juntos para dise\u00f1ar soluciones que impactan nuestro planeta y preparan el camino para habitar otros mundos. Qu\u00e9 [&hellip;]",
+                "has_content": true,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 75,
+                "type": "page",
+                "title": "Mars Challenge Cities",
+                "url": "https:\/\/marschallenge.space\/encuentra-un-mars-challenge\/mars-challenge-cities\/",
+                "excerpt": "Ciudades que impulsan la innovaci\u00f3n y el talento para la Tierra y Marte. Una Mars Challenge City es mucho m\u00e1s que una sede de evento: es un centro vivo de colaboraci\u00f3n donde Zers, instituciones educativas, empresas y gobiernos locales trabajan juntos para dise\u00f1ar soluciones que impactan nuestro planeta y preparan el camino para habitar otros [&hellip;]",
+                "has_content": true,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 73,
+                "type": "page",
+                "title": "Encuentra tu pa\u00eds",
+                "url": "https:\/\/marschallenge.space\/encuentra-un-mars-challenge\/encuentra-tu-pais\/",
+                "excerpt": "Descubre c\u00f3mo tu pa\u00eds forma parte de la misi\u00f3n global para innovar por la Tierra y por Marte. Mars Challenge est\u00e1 activo en decenas de pa\u00edses, cada uno con su propia energ\u00eda, talento y comunidad. Algunos ya tienen un ecosistema local consolidado; otros est\u00e1n dando sus primeros pasos. Y, en algunos lugares, t\u00fa puedes ser [&hellip;]",
+                "has_content": true,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 71,
+                "type": "page",
+                "title": "Corporate Social Responsibility (CSR)",
+                "url": "https:\/\/marschallenge.space\/empresas\/corporate-social-responsibility-csr\/",
+                "excerpt": "Corporate Social Responsibility (CSR) Cuando tu empresa mira m\u00e1s all\u00e1 de la Tierra, transforma el presente y asegura el futuro. En Mars Challenge creemos que las empresas no solo mueven la econom\u00eda: pueden mover el mundo hacia un futuro sostenible y justo. Nuestra plataforma es una oportunidad \u00fanica para que tu estrategia de Responsabilidad Social [&hellip;]",
+                "has_content": true,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 69,
+                "type": "page",
+                "title": "Planes y benef\u00edcios",
+                "url": "https:\/\/marschallenge.space\/empresas\/planes-y-beneficios\/",
+                "excerpt": "Tres niveles de participaci\u00f3n, un mismo impacto: becas para j\u00f3venes e instituciones educativas. En Mars Challenge, todo patrocinio \u2014financiero o en especie\u2014 se convierte en becas que permiten a estudiantes (Zers), instituciones educativas y comunidades participar en HackImpacto y en la Final Internacional Madrid 2026. Patrocinar Mars Challenge es invertir en innovaci\u00f3n, talento y un [&hellip;]",
+                "has_content": true,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 67,
+                "type": "page",
+                "title": "Sello Best Space &amp; Earth 2026",
+                "url": "https:\/\/marschallenge.space\/empresas\/sello-best-space-earth-2026\/",
+                "excerpt": "El reconocimiento global para empresas que innovan por la Tierra y por Marte.El Sello Best Space &amp; Earth distingue a las organizaciones que generan un impacto positivo en dos frentes: la sostenibilidad de nuestro planeta y la preparaci\u00f3n para la vida en entornos extremos como Marte.Este reconocimiento valida tu compromiso con la innovaci\u00f3n, la educaci\u00f3n [&hellip;]",
+                "has_content": true,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 65,
+                "type": "page",
+                "title": "C\u00f3mo colaborar",
+                "url": "https:\/\/marschallenge.space\/empresas\/como-colaborar\/",
+                "excerpt": "Las empresas tambi\u00e9n son parte de la misi\u00f3n.\u2028En Mars Challenge, las compa\u00f1\u00edas no son solo patrocinadores: son socios estrat\u00e9gicos de innovaci\u00f3n y cambio global. Juntas, creamos oportunidades para que j\u00f3venes de todo el mundo desarrollen soluciones sostenibles para la Tierra y para futuros asentamientos humanos en Marte. 100% de tu contribuci\u00f3n \u2014financiera o en especie\u2014 [&hellip;]",
+                "has_content": true,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 63,
+                "type": "page",
+                "title": "Premio Houston Space Center",
+                "url": "https:\/\/marschallenge.space\/hackimpacto\/premios-y-reconocimientos\/premio-houston-space-center\/",
+                "excerpt": "La experiencia inmersiva donde la ciencia y la exploraci\u00f3n cobran vida.\u2028\u2028 El Premio Houston Space Center no es solo un reconocimiento: es la oportunidad de sumergirse en el coraz\u00f3n de la NASA, vivir en primera persona el presente y futuro de la exploraci\u00f3n espacial, y adquirir herramientas \u00fanicas para liderar en entornos extremos y de [&hellip;]",
+                "has_content": true,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 61,
+                "type": "page",
+                "title": "Final Internacional Madrid 2026",
+                "url": "https:\/\/marschallenge.space\/hackimpacto\/premios-y-reconocimientos\/final-internacional-madrid-2026\/",
+                "excerpt": "Donde las mejores ideas del planeta se encuentran para cambiar el futuro. La Final Internacional del Mars Challenge es el gran evento que re\u00fane a los equipos ganadores de cada pa\u00eds y al equipo extra del reto multipa\u00eds. En este escenario global, las soluciones creadas durante la temporada Tierra se presentan ante un jurado internacional, [&hellip;]",
+                "has_content": true,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 59,
+                "type": "page",
+                "title": "Premios y reconocimientos",
+                "url": "https:\/\/marschallenge.space\/hackimpacto\/premios-y-reconocimientos\/",
+                "excerpt": "Celebramos el talento, la creatividad y el impacto real. En Mars Challenge, llegar lejos no significa solo ganar: significa inspirar, colaborar y dejar huella. Los premios y reconocimientos son una forma de destacar a los equipos, mentores, instituciones, aliados y empresas que marcan la diferencia en la misi\u00f3n dual-planeta: crear soluciones para la supervivencia humana [&hellip;]",
+                "has_content": true,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 57,
+                "type": "page",
+                "title": "Fases del reto",
+                "url": "https:\/\/marschallenge.space\/hackimpacto\/fases-del-reto\/",
+                "excerpt": "Del registro a la acci\u00f3n, del prototipo al impacto real. HackImpacto est\u00e1 estructurado en fases que acompa\u00f1an a los participantes desde su inscripci\u00f3n hasta la implementaci\u00f3n de las soluciones m\u00e1s prometedoras. Cada fase es una oportunidad para aprender, colaborar y demostrar tu talento. Fechas clave \u2014 Edici\u00f3n Tierra 2026 Apertura de inscripciones: 15 de agosto [&hellip;]",
+                "has_content": true,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 53,
+                "type": "page",
+                "title": "\u00bfQu\u00e9 es un hackath\u00f3n?",
+                "url": "https:\/\/marschallenge.space\/hackimpacto\/que-es-un-hackathon\/",
+                "excerpt": "La metodolog\u00eda que transforma ideas en soluciones reales en tiempo r\u00e9cord. Un hackathon es un evento intensivo de innovaci\u00f3n colaborativa, donde personas con distintas habilidades se re\u00fanen para resolver un desaf\u00edo concreto en un tiempo limitado. No es solo una competencia: es una experiencia de aprendizaje acelerado y trabajo en equipo que combina creatividad, tecnolog\u00eda [&hellip;]",
+                "has_content": true,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 39,
+                "type": "page",
+                "title": "Convocatoria actual \u2014 2026 Tierra",
+                "url": "https:\/\/marschallenge.space\/participar\/convocatoria-actual-2026-tierra\/",
+                "excerpt": "Imagina la Tierra como un Marte en formaci\u00f3n\u2026 y evita que llegue ese d\u00eda. En Mars Challenge 2026, el elemento central es Tierra. Este reto nos invita a mirar nuestro planeta con los mismos ojos con los que planeamos sobrevivir en Marte: un entorno limitado, austero y fr\u00e1gil. La pregunta es simple y urgente: \u00bfQu\u00e9 [&hellip;]",
+                "has_content": true,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 37,
+                "type": "page",
+                "title": "C\u00f3mo participar",
+                "url": "https:\/\/marschallenge.space\/participar\/como-participar\/",
+                "excerpt": "Tu misi\u00f3n: prototipar la supervivencia humana en Marte y en la Tierra. Mars Challenge abre sus puertas a j\u00f3venes, instituciones, empresas y comunidades de todo el mundo para unirse a la aventura educativa m\u00e1s ambiciosa de la d\u00e9cada. Si tienes entre 15 y 29 a\u00f1os, representas a una organizaci\u00f3n educativa, compa\u00f1\u00eda privada, ciudad, pa\u00eds o [&hellip;]",
+                "has_content": true,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 35,
+                "type": "page",
+                "title": "Innovaci\u00f3n dual-planeta",
+                "url": "https:\/\/marschallenge.space\/sobre\/innovacion-dual-planeta\/",
+                "excerpt": "Dos mundos, un mismo futuro. Mars Challenge es la primera plataforma global de innovaci\u00f3n que trabaja en paralelo para dos entornos: la Tierra y Marte. Usamos los retos extremos de habitar Marte como un catalizador para encontrar soluciones que mejoren la vida en nuestro planeta hoy. Marte como laboratorio para la Tierra Vivir en Marte [&hellip;]",
+                "has_content": true,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 33,
+                "type": "page",
+                "title": "Investigadores",
+                "url": "https:\/\/marschallenge.space\/sobre\/investigadores\/",
+                "excerpt": "Explora, estudia y publica sobre Mars Challenge.\u2028\u2028 Invitamos a investigadoras e investigadores de todo el mundo a colaborar con Mars Challenge en el estudio y an\u00e1lisis de esta plataforma interplanetaria de innovaci\u00f3n educativa, tecnol\u00f3gica y social. Desde art\u00edculos cient\u00edficos hasta papers interdisciplinarios, Mars Challenge es un laboratorio vivo de datos, experiencias y din\u00e1micas que pueden [&hellip;]",
+                "has_content": true,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 31,
+                "type": "page",
+                "title": "Aliados estrat\u00e9gicos",
+                "url": "https:\/\/marschallenge.space\/sobre\/aliados-estrategicos\/",
+                "excerpt": "Un futuro interplanetario solo es posible si lo construimos juntos. \u00bfQu\u00e9 significa ser un aliado estrat\u00e9gico? Un aliado estrat\u00e9gico es una organizaci\u00f3n que comparte nuestra visi\u00f3n y se compromete activamente con el \u00e9xito y el alcance de Mars Challenge.\u2028 Desde universidades hasta agencias espaciales, desde empresas tecnol\u00f3gicas hasta gobiernos locales, cada alianza amplifica el impacto [&hellip;]",
+                "has_content": true,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 29,
+                "type": "page",
+                "title": "Prensa",
+                "url": "https:\/\/marschallenge.space\/sobre\/prensa\/",
+                "excerpt": "BIENVENIDOS Al hub de medios de Mars Challenge. Aqu\u00ed encontrar\u00e1s todo lo necesario para contar la historia de la primera plataforma de innovaci\u00f3n dual-planeta del mundo. Sobre Mars Challenge Mars Challenge es una iniciativa educativa global que usa el espacio como marco para acelerar innovaci\u00f3n, talento joven y soluciones sostenibles aplicables tanto en la Tierra [&hellip;]",
+                "has_content": true,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 27,
+                "type": "page",
+                "title": "Mars Challenge",
+                "url": "https:\/\/marschallenge.space\/sobre\/mars-challenge\/",
+                "excerpt": "",
+                "has_content": true,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 19,
+                "type": "page",
+                "title": "Seasons",
+                "url": "https:\/\/marschallenge.space\/seasons\/",
+                "excerpt": "Seasons \u2014 Elementos y tem\u00e1ticas Cuatro a\u00f1os, cuatro elementos, una misi\u00f3n: prototipar la supervivencia humana en Marte y la sostenibilidad en la Tierra. Cada temporada de Mars Challenge est\u00e1 inspirada en un elemento esencial para la vida. Este ciclo de cuatro a\u00f1os conecta ciencia, tecnolog\u00eda, sostenibilidad y creatividad para enfrentar los mayores desaf\u00edos de la [&hellip;]",
+                "has_content": true,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 10,
+                "type": "page",
+                "title": "Inicio",
+                "url": "https:\/\/marschallenge.space\/",
+                "excerpt": "\u00bfY si imaginar la vida en MARTE nos ayudara a salvar el planeta TIERRA? Reto Marte 2026:La llamada global para todos los Zers: j\u00f3venes que piensan fuera del planeta para cambiar el mundo \u00danete al reto Soy una instituci\u00f3n Explora la misi\u00f3n PREMIOS INTERNACIONALES Y RECONOCIMIENTOS Reto Marte publicado en medios confiables Paises participantes Pa\u00edses [&hellip;]",
+                "has_content": true,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 93,
+                "type": "page",
+                "title": "Ciudades y gobiernos locales",
+                "url": "https:\/\/marschallenge.space\/quien-sirve\/ciudades-y-gobiernos-locales\/",
+                "excerpt": "",
+                "has_content": false,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 91,
+                "type": "page",
+                "title": "Empresas",
+                "url": "https:\/\/marschallenge.space\/quien-sirve\/empresas\/",
+                "excerpt": "",
+                "has_content": false,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 89,
+                "type": "page",
+                "title": "Universidades",
+                "url": "https:\/\/marschallenge.space\/quien-sirve\/universidades\/",
+                "excerpt": "",
+                "has_content": false,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 87,
+                "type": "page",
+                "title": "Otras instituciones",
+                "url": "https:\/\/marschallenge.space\/quien-sirve\/otras-instituciones\/",
+                "excerpt": "",
+                "has_content": false,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 85,
+                "type": "page",
+                "title": "Colegios y escuelas",
+                "url": "https:\/\/marschallenge.space\/quien-sirve\/colegios-y-escuelas\/",
+                "excerpt": "",
+                "has_content": false,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 83,
+                "type": "page",
+                "title": "Maestros (Mission One Teacher \/ Mission Mentor)",
+                "url": "https:\/\/marschallenge.space\/quien-sirve\/maestros-mission-one-teacher-mission-mentor\/",
+                "excerpt": "",
+                "has_content": false,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 81,
+                "type": "page",
+                "title": "J\u00f3venes (Zers)",
+                "url": "https:\/\/marschallenge.space\/quien-sirve\/jovenes-zers\/",
+                "excerpt": "",
+                "has_content": false,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 55,
+                "type": "page",
+                "title": "\u00bfQu\u00e9 es HackImpacto?",
+                "url": "https:\/\/marschallenge.space\/hackimpacto\/que-es-hackimpacto\/",
+                "excerpt": "",
+                "has_content": false,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 51,
+                "type": "page",
+                "title": "Registro de pa\u00edses",
+                "url": "https:\/\/marschallenge.space\/participar\/registro-de-paises\/",
+                "excerpt": "",
+                "has_content": false,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 49,
+                "type": "page",
+                "title": "Registro de ciudades y estados",
+                "url": "https:\/\/marschallenge.space\/participar\/registro-de-ciudades-y-estados\/",
+                "excerpt": "",
+                "has_content": false,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 47,
+                "type": "page",
+                "title": "Registro de empresas",
+                "url": "https:\/\/marschallenge.space\/participar\/registro-de-empresas\/",
+                "excerpt": "",
+                "has_content": false,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 45,
+                "type": "page",
+                "title": "Registro de instituciones",
+                "url": "https:\/\/marschallenge.space\/participar\/registro-de-instituciones\/",
+                "excerpt": "",
+                "has_content": false,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 43,
+                "type": "page",
+                "title": "Registro de docentes y mentores",
+                "url": "https:\/\/marschallenge.space\/participar\/registro-de-docentes-y-mentores\/",
+                "excerpt": "",
+                "has_content": false,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 41,
+                "type": "page",
+                "title": "Registro de estudiantes",
+                "url": "https:\/\/marschallenge.space\/participar\/registro-de-estudiantes\/",
+                "excerpt": "",
+                "has_content": false,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 25,
+                "type": "page",
+                "title": "Quien sirve",
+                "url": "https:\/\/marschallenge.space\/quien-sirve\/",
+                "excerpt": "",
+                "has_content": false,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 23,
+                "type": "page",
+                "title": "Encuentra un Mars Challenge",
+                "url": "https:\/\/marschallenge.space\/encuentra-un-mars-challenge\/",
+                "excerpt": "",
+                "has_content": false,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 21,
+                "type": "page",
+                "title": "Empresas &#8211; Particular",
+                "url": "https:\/\/marschallenge.space\/empresas\/",
+                "excerpt": "",
+                "has_content": false,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 17,
+                "type": "page",
+                "title": "HackImpacto",
+                "url": "https:\/\/marschallenge.space\/hackimpacto\/",
+                "excerpt": "",
+                "has_content": false,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 15,
+                "type": "page",
+                "title": "Participa",
+                "url": "https:\/\/marschallenge.space\/participar\/",
+                "excerpt": "",
+                "has_content": false,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 13,
+                "type": "page",
+                "title": "Sobre",
+                "url": "https:\/\/marschallenge.space\/sobre\/",
+                "excerpt": "",
+                "has_content": false,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 15,
+                "type": "category",
+                "title": "Noticias destacadas",
+                "url": "https:\/\/marschallenge.space\/noticias-destacadas\/",
+                "excerpt": "",
+                "has_content": false,
+                "rankmath_desc": ""
+            },
+            {
+                "id": 1,
+                "type": "category",
+                "title": "Uncategorized",
+                "url": "https:\/\/marschallenge.space\/uncategorized\/",
+                "excerpt": "",
+                "has_content": false,
+                "rankmath_desc": ""
+            }
+        ],
+        "empty_descriptions": [],
+        "quality_issues": {
+            "too_short": [],
+            "too_long": [],
+            "keyword_repetition": [],
+            "low_engagement": []
+        }
+    },
+    "pattern_analysis": {
+        "title_length_distribution": {
+            "0": 11,
+            "10": 14,
+            "20": 16,
+            "30": 8,
+            "40": 2
+        },
+        "desc_length_distribution": [],
+        "most_common_words_in_titles": [],
+        "most_common_words_in_descriptions": []
+    },
+    "summary": {
+        "duplicate_normal_titles": 0,
+        "duplicate_rankmath_titles": 0,
+        "missing_descriptions": 53,
+        "empty_descriptions": 0,
+        "short_descriptions": 0,
+        "long_descriptions": 0
+    }
+}

@@ -1,0 +1,1652 @@
+{
+    "summary": {
+        "missing_rm_title": 127,
+        "too_short": 110,
+        "too_long": 0,
+        "duplicate": 10,
+        "default_format": 124
+    },
+    "details": [
+        {
+            "id": 1200,
+            "type": "post",
+            "url": "https:\/\/marschallenge.space\/jovenes-puertorriquenos-rumbo-a-madrid\/",
+            "wp_title": "Jóvenes puertorriqueños rumbo a Madrid",
+            "rm_title": "",
+            "length": 38,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 1197,
+            "type": "post",
+            "url": "https:\/\/marschallenge.space\/reto-marte-en-costa-rica\/",
+            "wp_title": "Reto Marte en Costa Rica",
+            "rm_title": "",
+            "length": 24,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (24 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 1193,
+            "type": "post",
+            "url": "https:\/\/marschallenge.space\/final-reto-marte-2024-madrid\/",
+            "wp_title": "Final Reto Marte 2024 — Madrid",
+            "rm_title": "",
+            "length": 30,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 2898,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/agua\/",
+            "wp_title": "Agua",
+            "rm_title": "",
+            "length": 4,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (4 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 2883,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/fuego\/",
+            "wp_title": "Fuego",
+            "rm_title": "",
+            "length": 5,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (5 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 2864,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/genesis\/",
+            "wp_title": "Genesis",
+            "rm_title": "",
+            "length": 7,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (7 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 2747,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/voices\/",
+            "wp_title": "voices",
+            "rm_title": "",
+            "length": 6,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (6 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 1521,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/registro\/",
+            "wp_title": "Registro",
+            "rm_title": "",
+            "length": 8,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (8 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 178,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/sobre\/no-planet-b-just-a-better-plan\/",
+            "wp_title": "No Planet B. Just A Better Plan",
+            "rm_title": "",
+            "length": 31,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 93,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/quien-sirve\/ciudades-y-gobiernos-locales\/",
+            "wp_title": "Ciudades y gobiernos locales",
+            "rm_title": "",
+            "length": 28,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (28 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 91,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/quien-sirve\/empresas\/",
+            "wp_title": "Empresas",
+            "rm_title": "",
+            "length": 8,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (8 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 89,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/quien-sirve\/universidades\/",
+            "wp_title": "Universidades",
+            "rm_title": "",
+            "length": 13,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (13 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 87,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/quien-sirve\/otras-instituciones\/",
+            "wp_title": "Otras instituciones",
+            "rm_title": "",
+            "length": 19,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (19 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 85,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/quien-sirve\/colegios-y-escuelas\/",
+            "wp_title": "Colegios y escuelas",
+            "rm_title": "",
+            "length": 19,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (19 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 83,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/quien-sirve\/maestros-mission-one-teacher-mission-mentor\/",
+            "wp_title": "Maestros (Mission One Teacher \/ Mission Mentor)",
+            "rm_title": "",
+            "length": 47,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 81,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/quien-sirve\/jovenes-zers\/",
+            "wp_title": "Jóvenes (Zers)",
+            "rm_title": "",
+            "length": 14,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (14 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 79,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/encuentra-un-mars-challenge\/mapa-interactivo\/",
+            "wp_title": "Mapa interactivo",
+            "rm_title": "",
+            "length": 16,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (16 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 77,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/encuentra-un-mars-challenge\/instituciones-lideres\/",
+            "wp_title": "Instituciones líderes",
+            "rm_title": "",
+            "length": 21,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (21 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 75,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/encuentra-un-mars-challenge\/mars-challenge-cities\/",
+            "wp_title": "Mars Challenge Cities",
+            "rm_title": "",
+            "length": 21,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (21 caracteres)"
+            ]
+        },
+        {
+            "id": 73,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/encuentra-un-mars-challenge\/encuentra-tu-pais\/",
+            "wp_title": "Encuentra tu país",
+            "rm_title": "",
+            "length": 17,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (17 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 71,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/empresas\/corporate-social-responsibility-csr\/",
+            "wp_title": "Corporate Social Responsibility (CSR)",
+            "rm_title": "",
+            "length": 37,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 69,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/empresas\/planes-y-beneficios\/",
+            "wp_title": "Planes y benefícios",
+            "rm_title": "",
+            "length": 19,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (19 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 67,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/empresas\/sello-best-space-earth-2026\/",
+            "wp_title": "Sello Best Space &amp; Earth 2026",
+            "rm_title": "",
+            "length": 33,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 65,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/empresas\/como-colaborar\/",
+            "wp_title": "Cómo colaborar",
+            "rm_title": "",
+            "length": 14,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (14 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 63,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/hackimpacto\/premios-y-reconocimientos\/premio-houston-space-center\/",
+            "wp_title": "Premio Houston Space Center",
+            "rm_title": "",
+            "length": 27,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (27 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 61,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/hackimpacto\/premios-y-reconocimientos\/final-internacional-madrid-2026\/",
+            "wp_title": "Final Internacional Madrid 2026",
+            "rm_title": "",
+            "length": 31,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 59,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/hackimpacto\/premios-y-reconocimientos\/",
+            "wp_title": "Premios y reconocimientos",
+            "rm_title": "",
+            "length": 25,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (25 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 57,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/hackimpacto\/fases-del-reto\/",
+            "wp_title": "Fases del reto",
+            "rm_title": "",
+            "length": 14,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (14 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 55,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/hackimpacto\/que-es-hackimpacto\/",
+            "wp_title": "¿Qué es HackImpacto?",
+            "rm_title": "",
+            "length": 20,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (20 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 53,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/hackimpacto\/que-es-un-hackathon\/",
+            "wp_title": "¿Qué es un hackathón?",
+            "rm_title": "",
+            "length": 21,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (21 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 51,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/participar\/registro-de-paises\/",
+            "wp_title": "Registro de países",
+            "rm_title": "",
+            "length": 18,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (18 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 49,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/participar\/registro-de-ciudades-y-estados\/",
+            "wp_title": "Registro de ciudades y estados",
+            "rm_title": "",
+            "length": 30,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 47,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/participar\/registro-de-empresas\/",
+            "wp_title": "Registro de empresas",
+            "rm_title": "",
+            "length": 20,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (20 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 45,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/participar\/registro-de-instituciones\/",
+            "wp_title": "Registro de instituciones",
+            "rm_title": "",
+            "length": 25,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (25 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 43,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/participar\/registro-de-docentes-y-mentores\/",
+            "wp_title": "Registro de docentes y mentores",
+            "rm_title": "",
+            "length": 31,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 41,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/participar\/registro-de-estudiantes\/",
+            "wp_title": "Registro de estudiantes",
+            "rm_title": "",
+            "length": 23,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (23 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 39,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/participar\/convocatoria-actual-2026-tierra\/",
+            "wp_title": "Convocatoria actual — 2026 Tierra",
+            "rm_title": "",
+            "length": 33,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 37,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/participar\/como-participar\/",
+            "wp_title": "Cómo participar",
+            "rm_title": "",
+            "length": 15,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (15 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 35,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/sobre\/innovacion-dual-planeta\/",
+            "wp_title": "Innovación dual-planeta",
+            "rm_title": "",
+            "length": 23,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (23 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 33,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/sobre\/investigadores\/",
+            "wp_title": "Investigadores",
+            "rm_title": "",
+            "length": 14,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (14 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 31,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/sobre\/aliados-estrategicos\/",
+            "wp_title": "Aliados estratégicos",
+            "rm_title": "",
+            "length": 20,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (20 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 29,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/sobre\/prensa\/",
+            "wp_title": "Prensa",
+            "rm_title": "",
+            "length": 6,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (6 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 27,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/sobre\/mars-challenge\/",
+            "wp_title": "Mars Challenge",
+            "rm_title": "",
+            "length": 14,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (14 caracteres)"
+            ]
+        },
+        {
+            "id": 25,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/quien-sirve\/",
+            "wp_title": "Quien sirve",
+            "rm_title": "",
+            "length": 11,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (11 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 23,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/encuentra-un-mars-challenge\/",
+            "wp_title": "Encuentra un Mars Challenge",
+            "rm_title": "",
+            "length": 27,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (27 caracteres)"
+            ]
+        },
+        {
+            "id": 21,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/empresas\/",
+            "wp_title": "Empresas &#8211; Particular",
+            "rm_title": "",
+            "length": 27,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (27 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 19,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/seasons\/",
+            "wp_title": "Seasons",
+            "rm_title": "",
+            "length": 7,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (7 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 17,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/hackimpacto\/",
+            "wp_title": "HackImpacto",
+            "rm_title": "",
+            "length": 11,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (11 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 15,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/participar\/",
+            "wp_title": "Participa",
+            "rm_title": "",
+            "length": 9,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (9 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 13,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/sobre\/",
+            "wp_title": "Sobre",
+            "rm_title": "",
+            "length": 5,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (5 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 10,
+            "type": "page",
+            "url": "https:\/\/marschallenge.space\/",
+            "wp_title": "Inicio",
+            "rm_title": "",
+            "length": 6,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (6 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 4961,
+            "type": "instituciones",
+            "url": "https:\/\/marschallenge.space\/instituciones\/federacion-mexicana-de-la-industria-aeroespacial\/",
+            "wp_title": "Federación Mexicana de la Industria Aeroespacial",
+            "rm_title": "",
+            "length": 48,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 4958,
+            "type": "empresas_aliadas",
+            "url": "https:\/\/marschallenge.space\/empresas_aliadas\/virtual-educa\/",
+            "wp_title": "Virtual educa",
+            "rm_title": "",
+            "length": 13,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (13 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 4922,
+            "type": "empresas_aliadas",
+            "url": "https:\/\/marschallenge.space\/empresas_aliadas\/federacion-mexicana-de-la-industria-aeroespacial\/",
+            "wp_title": "Federación Mexicana de la Industria Aeroespacial",
+            "rm_title": "",
+            "length": 48,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Duplicado con ID 4961",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 5476,
+            "type": "landing_paises",
+            "url": "https:\/\/marschallenge.space\/peru\/",
+            "wp_title": "Perú",
+            "rm_title": "",
+            "length": 4,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (4 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 5463,
+            "type": "landing_paises",
+            "url": "https:\/\/marschallenge.space\/espana\/",
+            "wp_title": "España",
+            "rm_title": "",
+            "length": 6,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (6 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 4672,
+            "type": "landing_paises",
+            "url": "https:\/\/marschallenge.space\/mexico\/",
+            "wp_title": "México",
+            "rm_title": "",
+            "length": 6,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (6 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 4255,
+            "type": "quienes-sirven",
+            "url": "https:\/\/marschallenge.space\/quienes-sirven\/jovenes-zers\/",
+            "wp_title": "Jóvenes (Zers)",
+            "rm_title": "",
+            "length": 14,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (14 caracteres)",
+                "Duplicado con ID 81",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 4253,
+            "type": "quienes-sirven",
+            "url": "https:\/\/marschallenge.space\/quienes-sirven\/maestros-y-mentores\/",
+            "wp_title": "Maestros y mentores",
+            "rm_title": "",
+            "length": 19,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (19 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 4251,
+            "type": "quienes-sirven",
+            "url": "https:\/\/marschallenge.space\/quienes-sirven\/colegios-y-escuelas\/",
+            "wp_title": "Colegios y escuelas",
+            "rm_title": "",
+            "length": 19,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (19 caracteres)",
+                "Duplicado con ID 85",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 4249,
+            "type": "quienes-sirven",
+            "url": "https:\/\/marschallenge.space\/quienes-sirven\/otras-instituciones\/",
+            "wp_title": "Otras instituciones",
+            "rm_title": "",
+            "length": 19,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (19 caracteres)",
+                "Duplicado con ID 87",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 4247,
+            "type": "quienes-sirven",
+            "url": "https:\/\/marschallenge.space\/quienes-sirven\/universidades\/",
+            "wp_title": "Universidades",
+            "rm_title": "",
+            "length": 13,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (13 caracteres)",
+                "Duplicado con ID 89",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 4242,
+            "type": "quienes-sirven",
+            "url": "https:\/\/marschallenge.space\/quienes-sirven\/empresas\/",
+            "wp_title": "Empresas",
+            "rm_title": "",
+            "length": 8,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (8 caracteres)",
+                "Duplicado con ID 91",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 4177,
+            "type": "quienes-sirven",
+            "url": "https:\/\/marschallenge.space\/quienes-sirven\/ciudades-y-estados\/",
+            "wp_title": "Ciudades y gobiernos locales",
+            "rm_title": "",
+            "length": 28,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (28 caracteres)",
+                "Duplicado con ID 93",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 2656,
+            "type": "participa",
+            "url": "https:\/\/marschallenge.space\/participa\/paises\/",
+            "wp_title": "Países",
+            "rm_title": "",
+            "length": 6,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (6 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 2653,
+            "type": "participa",
+            "url": "https:\/\/marschallenge.space\/participa\/ciudades-y-estados\/",
+            "wp_title": "Ciudades y estados",
+            "rm_title": "",
+            "length": 18,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (18 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 2649,
+            "type": "participa",
+            "url": "https:\/\/marschallenge.space\/participa\/empresas\/",
+            "wp_title": "Empresas",
+            "rm_title": "",
+            "length": 8,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (8 caracteres)",
+                "Duplicado con ID 4242",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 2643,
+            "type": "participa",
+            "url": "https:\/\/marschallenge.space\/participa\/instituciones\/",
+            "wp_title": "Instituciones",
+            "rm_title": "",
+            "length": 13,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (13 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 2636,
+            "type": "participa",
+            "url": "https:\/\/marschallenge.space\/participa\/docentes-y-mentores\/",
+            "wp_title": "Docentes y mentores",
+            "rm_title": "",
+            "length": 19,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (19 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 2286,
+            "type": "participa",
+            "url": "https:\/\/marschallenge.space\/participa\/estudiantes-2\/",
+            "wp_title": "Estudiantes",
+            "rm_title": "",
+            "length": 11,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (11 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 2119,
+            "type": "tematicas_y_elemento",
+            "url": "https:\/\/marschallenge.space\/tematicas_y_elemento\/2026-tierra-convocatoria-abierta\/",
+            "wp_title": "2026 — Tierra (Convocatoria abierta)",
+            "rm_title": "",
+            "length": 36,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 2116,
+            "type": "tematicas_y_elemento",
+            "url": "https:\/\/marschallenge.space\/tematicas_y_elemento\/2025-fuego\/",
+            "wp_title": "2025 — Fuego",
+            "rm_title": "",
+            "length": 12,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (12 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 2113,
+            "type": "tematicas_y_elemento",
+            "url": "https:\/\/marschallenge.space\/tematicas_y_elemento\/2024-agua\/",
+            "wp_title": "2024 — Agua",
+            "rm_title": "",
+            "length": 11,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (11 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 2082,
+            "type": "tematicas_y_elemento",
+            "url": "https:\/\/marschallenge.space\/tematicas_y_elemento\/2023-genesis\/",
+            "wp_title": "2023 — Génesis",
+            "rm_title": "",
+            "length": 14,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (14 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 5849,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/secretaria-de-innovacion-y-desarrollo\/",
+            "wp_title": "Secretaria de innovación y desarrollo",
+            "rm_title": "",
+            "length": 37,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 5751,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/zodiac-aerospace\/",
+            "wp_title": "ZODIAC AEROSPACE",
+            "rm_title": "",
+            "length": 16,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (16 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 5749,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/textron-aviation\/",
+            "wp_title": "TEXTRON AVIATION",
+            "rm_title": "",
+            "length": 16,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (16 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 5747,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/safran\/",
+            "wp_title": "SAFRAN",
+            "rm_title": "",
+            "length": 6,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (6 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 5745,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/optimen\/",
+            "wp_title": "OPTIMEN",
+            "rm_title": "",
+            "length": 7,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (7 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 5743,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/itp-aero\/",
+            "wp_title": "ITP AERO",
+            "rm_title": "",
+            "length": 8,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (8 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 5741,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/innova-engineered-plastics\/",
+            "wp_title": "INNOVA ENGINEERED PLASTICS",
+            "rm_title": "",
+            "length": 26,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (26 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 5739,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/indeq\/",
+            "wp_title": "INDEQ",
+            "rm_title": "",
+            "length": 5,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (5 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 5737,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/honeywell\/",
+            "wp_title": "HONEYWELL",
+            "rm_title": "",
+            "length": 9,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (9 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 5735,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/heroux-devtek\/",
+            "wp_title": "HEROUX DEVTEK",
+            "rm_title": "",
+            "length": 13,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (13 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 5733,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/gulfstream\/",
+            "wp_title": "GULFSTREAM",
+            "rm_title": "",
+            "length": 10,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (10 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 5731,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/ge-aerospace\/",
+            "wp_title": "GE AEROSPACE",
+            "rm_title": "",
+            "length": 12,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (12 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 5729,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/dupont\/",
+            "wp_title": "DUPONT",
+            "rm_title": "",
+            "length": 6,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (6 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 5727,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/collins-aerospace\/",
+            "wp_title": "COLLINS AEROSPACE",
+            "rm_title": "",
+            "length": 17,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (17 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 5725,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/bombardier-aerospace\/",
+            "wp_title": "BOMBARDIER AEROSPACE",
+            "rm_title": "",
+            "length": 20,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (20 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 5723,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/boeing\/",
+            "wp_title": "BOEING",
+            "rm_title": "",
+            "length": 6,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (6 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 5721,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/ascent-aerospace\/",
+            "wp_title": "ASCENT AEROSPACE",
+            "rm_title": "",
+            "length": 16,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (16 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 5719,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/american-industries\/",
+            "wp_title": "AMERICAN INDUSTRIES",
+            "rm_title": "",
+            "length": 19,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (19 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 5717,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/airbus\/",
+            "wp_title": "AIRBUS",
+            "rm_title": "",
+            "length": 6,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (6 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 5715,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/aerocluster\/",
+            "wp_title": "AEROCLUSTER",
+            "rm_title": "",
+            "length": 11,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (11 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 5713,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/aernnova\/",
+            "wp_title": "AERNNOVA",
+            "rm_title": "",
+            "length": 8,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (8 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 5530,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/tech-learning-awards-2025\/",
+            "wp_title": "Tech &amp; Learning Awards 2025",
+            "rm_title": "",
+            "length": 31,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 5282,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/reimagine-education-awards\/",
+            "wp_title": "ReImagine Education Awards",
+            "rm_title": "",
+            "length": 26,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (26 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 5280,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/gess-education-awards-2025\/",
+            "wp_title": "GESS Education Awards 2025",
+            "rm_title": "",
+            "length": 26,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (26 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 5091,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/secretaria-de-educacion-chihuahua\/",
+            "wp_title": "Secretaria de Educación Chihuahua",
+            "rm_title": "",
+            "length": 33,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 1338,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/esa\/",
+            "wp_title": "ESA",
+            "rm_title": "",
+            "length": 3,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (3 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 1336,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/houston-space-center-nasacolaboracion-individual\/",
+            "wp_title": "Houston Space center\/ NASA(colaboración individual)",
+            "rm_title": "",
+            "length": 51,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 1334,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/femia\/",
+            "wp_title": "FEMIA",
+            "rm_title": "",
+            "length": 5,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (5 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 1332,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/space-talent-lab-2\/",
+            "wp_title": "Space Talent Lab",
+            "rm_title": "",
+            "length": 16,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (16 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 1329,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/virtual-educa\/",
+            "wp_title": "VIRTUAL EDUCA",
+            "rm_title": "",
+            "length": 13,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (13 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 876,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/edupan\/",
+            "wp_title": "Edupan",
+            "rm_title": "",
+            "length": 6,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (6 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 874,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/buen-data\/",
+            "wp_title": "Buen Data",
+            "rm_title": "",
+            "length": 9,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (9 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 872,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/lifelong\/",
+            "wp_title": "Lifelong",
+            "rm_title": "",
+            "length": 8,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (8 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 870,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/griky\/",
+            "wp_title": "Griky",
+            "rm_title": "",
+            "length": 5,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (5 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 868,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/roborobo\/",
+            "wp_title": "RoboRobo",
+            "rm_title": "",
+            "length": 8,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (8 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 866,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/latourette\/",
+            "wp_title": "Latourette",
+            "rm_title": "",
+            "length": 10,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (10 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 863,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/cuco\/",
+            "wp_title": "CUCO",
+            "rm_title": "",
+            "length": 4,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (4 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 862,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/qualcomm\/",
+            "wp_title": "Qualcomm",
+            "rm_title": "",
+            "length": 8,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (8 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 860,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/aec\/",
+            "wp_title": "AEC",
+            "rm_title": "",
+            "length": 3,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (3 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 858,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/ayuntamiento-de-getafe\/",
+            "wp_title": "Ayuntamiento de Getafe",
+            "rm_title": "",
+            "length": 22,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (22 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 855,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/getafe-iniciativas\/",
+            "wp_title": "Getafe Iniciativas",
+            "rm_title": "",
+            "length": 18,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (18 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 854,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/departamento-de-educacion\/",
+            "wp_title": "Departamento de educación",
+            "rm_title": "",
+            "length": 25,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (25 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 852,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/iste\/",
+            "wp_title": "ISTE",
+            "rm_title": "",
+            "length": 4,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (4 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 850,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/ruta-n\/",
+            "wp_title": "Ruta N",
+            "rm_title": "",
+            "length": 6,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (6 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 848,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/space-center-houston\/",
+            "wp_title": "Space Center Houston",
+            "rm_title": "",
+            "length": 20,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (20 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 846,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/space-talent-lab\/",
+            "wp_title": "Space Talent Lab",
+            "rm_title": "",
+            "length": 16,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (16 caracteres)",
+                "Duplicado con ID 1332",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 843,
+            "type": "logos",
+            "url": "https:\/\/marschallenge.space\/logos\/parlamento\/",
+            "wp_title": "Parlamento",
+            "rm_title": "",
+            "length": 10,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (10 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 648,
+            "type": "testimonios",
+            "url": "https:\/\/marschallenge.space\/testimonios\/carolina-londono-pelaez\/",
+            "wp_title": "Carolina Londoño Peláez",
+            "rm_title": "",
+            "length": 23,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (23 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 646,
+            "type": "testimonios",
+            "url": "https:\/\/marschallenge.space\/testimonios\/alejandro-gavarrete\/",
+            "wp_title": "Alejandro Gavarrete",
+            "rm_title": "",
+            "length": 19,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (19 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 644,
+            "type": "testimonios",
+            "url": "https:\/\/marschallenge.space\/testimonios\/maria-alejandra-gaviria\/",
+            "wp_title": "María Alejandra Gaviria",
+            "rm_title": "",
+            "length": 23,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (23 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 642,
+            "type": "testimonios",
+            "url": "https:\/\/marschallenge.space\/testimonios\/nayeli-abreu\/",
+            "wp_title": "Nayeli Abreu",
+            "rm_title": "",
+            "length": 12,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (12 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 636,
+            "type": "testimonios",
+            "url": "https:\/\/marschallenge.space\/testimonios\/sofia-mena\/",
+            "wp_title": "Sofía Mena",
+            "rm_title": "",
+            "length": 10,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (10 caracteres)",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        },
+        {
+            "id": 4430,
+            "type": "country_page",
+            "url": "https:\/\/marschallenge.space\/country-page\/mexico\/",
+            "wp_title": "México",
+            "rm_title": "",
+            "length": 6,
+            "issues": [
+                "No tiene título Rank Math personalizado",
+                "Muy corto (6 caracteres)",
+                "Duplicado con ID 4672",
+                "Posible falta de branding (Mars Challenge)"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,585 @@
+{
+    "site": "https:\/\/marschallenge.space",
+    "analysis_date": "2025-11-07 01:52:16",
+    "api_connection": true,
+    "search_console_data": {
+        "critical_problems": [
+            {
+                "Motivo": "No se ha encontrado (404)",
+                "Fuente": "Sitio web",
+                "Validaci\u00f3n": "Iniciada",
+                "P\u00e1ginas": "48"
+            },
+            {
+                "Motivo": "P\u00e1gina con redirecci\u00f3n",
+                "Fuente": "Sitio web",
+                "Validaci\u00f3n": "Iniciada",
+                "P\u00e1ginas": "9"
+            },
+            {
+                "Motivo": "Excluida por una etiqueta \"noindex\"",
+                "Fuente": "Sitio web",
+                "Validaci\u00f3n": "Iniciada",
+                "P\u00e1ginas": "7"
+            },
+            {
+                "Motivo": "P\u00e1gina alternativa con etiqueta can\u00f3nica adecuada",
+                "Fuente": "Sitio web",
+                "Validaci\u00f3n": "Iniciada",
+                "P\u00e1ginas": "2"
+            },
+            {
+                "Motivo": "Rastreada: actualmente sin indexar",
+                "Fuente": "Sistemas de Google",
+                "Validaci\u00f3n": "Iniciada",
+                "P\u00e1ginas": "40"
+            }
+        ],
+        "indexing_trend": [
+            {
+                "Fecha": "2025-08-08",
+                "Sin indexar": "85",
+                "Indexadas": "41",
+                "Impresiones": "40"
+            },
+            {
+                "Fecha": "2025-08-09",
+                "Sin indexar": "84",
+                "Indexadas": "42",
+                "Impresiones": "30"
+            },
+            {
+                "Fecha": "2025-08-10",
+                "Sin indexar": "84",
+                "Indexadas": "42",
+                "Impresiones": "47"
+            },
+            {
+                "Fecha": "2025-08-11",
+                "Sin indexar": "84",
+                "Indexadas": "42",
+                "Impresiones": "64"
+            },
+            {
+                "Fecha": "2025-08-12",
+                "Sin indexar": "84",
+                "Indexadas": "42",
+                "Impresiones": "142"
+            },
+            {
+                "Fecha": "2025-08-13",
+                "Sin indexar": "84",
+                "Indexadas": "42",
+                "Impresiones": "62"
+            },
+            {
+                "Fecha": "2025-08-14",
+                "Sin indexar": "84",
+                "Indexadas": "42",
+                "Impresiones": "50"
+            },
+            {
+                "Fecha": "2025-08-15",
+                "Sin indexar": "84",
+                "Indexadas": "42",
+                "Impresiones": "53"
+            },
+            {
+                "Fecha": "2025-08-16",
+                "Sin indexar": "84",
+                "Indexadas": "42",
+                "Impresiones": "43"
+            },
+            {
+                "Fecha": "2025-08-17",
+                "Sin indexar": "84",
+                "Indexadas": "42",
+                "Impresiones": "64"
+            },
+            {
+                "Fecha": "2025-08-18",
+                "Sin indexar": "84",
+                "Indexadas": "42",
+                "Impresiones": "57"
+            },
+            {
+                "Fecha": "2025-08-19",
+                "Sin indexar": "84",
+                "Indexadas": "42",
+                "Impresiones": "59"
+            },
+            {
+                "Fecha": "2025-08-20",
+                "Sin indexar": "84",
+                "Indexadas": "42",
+                "Impresiones": "49"
+            },
+            {
+                "Fecha": "2025-08-21",
+                "Sin indexar": "84",
+                "Indexadas": "42",
+                "Impresiones": "37"
+            },
+            {
+                "Fecha": "2025-08-22",
+                "Sin indexar": "84",
+                "Indexadas": "42",
+                "Impresiones": "42"
+            },
+            {
+                "Fecha": "2025-08-23",
+                "Sin indexar": "88",
+                "Indexadas": "38",
+                "Impresiones": "29"
+            },
+            {
+                "Fecha": "2025-08-24",
+                "Sin indexar": "88",
+                "Indexadas": "38",
+                "Impresiones": "20"
+            },
+            {
+                "Fecha": "2025-08-25",
+                "Sin indexar": "88",
+                "Indexadas": "38",
+                "Impresiones": "30"
+            },
+            {
+                "Fecha": "2025-08-26",
+                "Sin indexar": "93",
+                "Indexadas": "40",
+                "Impresiones": "53"
+            },
+            {
+                "Fecha": "2025-08-27",
+                "Sin indexar": "93",
+                "Indexadas": "40",
+                "Impresiones": "44"
+            },
+            {
+                "Fecha": "2025-08-28",
+                "Sin indexar": "93",
+                "Indexadas": "40",
+                "Impresiones": "69"
+            },
+            {
+                "Fecha": "2025-08-29",
+                "Sin indexar": "93",
+                "Indexadas": "40",
+                "Impresiones": "42"
+            },
+            {
+                "Fecha": "2025-08-30",
+                "Sin indexar": "96",
+                "Indexadas": "45",
+                "Impresiones": "75"
+            },
+            {
+                "Fecha": "2025-08-31",
+                "Sin indexar": "96",
+                "Indexadas": "45",
+                "Impresiones": "86"
+            },
+            {
+                "Fecha": "2025-09-01",
+                "Sin indexar": "96",
+                "Indexadas": "45",
+                "Impresiones": "73"
+            },
+            {
+                "Fecha": "2025-09-02",
+                "Sin indexar": "101",
+                "Indexadas": "46",
+                "Impresiones": "60"
+            },
+            {
+                "Fecha": "2025-09-03",
+                "Sin indexar": "101",
+                "Indexadas": "46",
+                "Impresiones": "118"
+            },
+            {
+                "Fecha": "2025-09-04",
+                "Sin indexar": "101",
+                "Indexadas": "46",
+                "Impresiones": "111"
+            },
+            {
+                "Fecha": "2025-09-05",
+                "Sin indexar": "101",
+                "Indexadas": "46",
+                "Impresiones": "87"
+            },
+            {
+                "Fecha": "2025-09-06",
+                "Sin indexar": "100",
+                "Indexadas": "48",
+                "Impresiones": "82"
+            },
+            {
+                "Fecha": "2025-09-07",
+                "Sin indexar": "100",
+                "Indexadas": "48",
+                "Impresiones": "74"
+            },
+            {
+                "Fecha": "2025-09-08",
+                "Sin indexar": "100",
+                "Indexadas": "48",
+                "Impresiones": "85"
+            },
+            {
+                "Fecha": "2025-09-09",
+                "Sin indexar": "118",
+                "Indexadas": "33",
+                "Impresiones": "91"
+            },
+            {
+                "Fecha": "2025-09-10",
+                "Sin indexar": "118",
+                "Indexadas": "33",
+                "Impresiones": "94"
+            },
+            {
+                "Fecha": "2025-09-11",
+                "Sin indexar": "118",
+                "Indexadas": "33",
+                "Impresiones": "83"
+            },
+            {
+                "Fecha": "2025-09-12",
+                "Sin indexar": "118",
+                "Indexadas": "33",
+                "Impresiones": "61"
+            },
+            {
+                "Fecha": "2025-09-13",
+                "Sin indexar": "121",
+                "Indexadas": "30",
+                "Impresiones": "47"
+            },
+            {
+                "Fecha": "2025-09-14",
+                "Sin indexar": "121",
+                "Indexadas": "30",
+                "Impresiones": "149"
+            },
+            {
+                "Fecha": "2025-09-15",
+                "Sin indexar": "121",
+                "Indexadas": "30",
+                "Impresiones": "82"
+            },
+            {
+                "Fecha": "2025-09-16",
+                "Sin indexar": "120",
+                "Indexadas": "30",
+                "Impresiones": "109"
+            },
+            {
+                "Fecha": "2025-09-17",
+                "Sin indexar": "120",
+                "Indexadas": "30",
+                "Impresiones": "88"
+            },
+            {
+                "Fecha": "2025-09-18",
+                "Sin indexar": "120",
+                "Indexadas": "30",
+                "Impresiones": "85"
+            },
+            {
+                "Fecha": "2025-09-19",
+                "Sin indexar": "120",
+                "Indexadas": "30",
+                "Impresiones": "47"
+            },
+            {
+                "Fecha": "2025-09-20",
+                "Sin indexar": "115",
+                "Indexadas": "28",
+                "Impresiones": "55"
+            },
+            {
+                "Fecha": "2025-09-21",
+                "Sin indexar": "115",
+                "Indexadas": "28",
+                "Impresiones": "96"
+            },
+            {
+                "Fecha": "2025-09-22",
+                "Sin indexar": "115",
+                "Indexadas": "28",
+                "Impresiones": "120"
+            },
+            {
+                "Fecha": "2025-09-23",
+                "Sin indexar": "117",
+                "Indexadas": "26",
+                "Impresiones": "119"
+            },
+            {
+                "Fecha": "2025-09-24",
+                "Sin indexar": "117",
+                "Indexadas": "26",
+                "Impresiones": "122"
+            },
+            {
+                "Fecha": "2025-09-25",
+                "Sin indexar": "117",
+                "Indexadas": "26",
+                "Impresiones": "102"
+            },
+            {
+                "Fecha": "2025-09-26",
+                "Sin indexar": "117",
+                "Indexadas": "26",
+                "Impresiones": "72"
+            },
+            {
+                "Fecha": "2025-09-27",
+                "Sin indexar": "117",
+                "Indexadas": "26",
+                "Impresiones": "48"
+            },
+            {
+                "Fecha": "2025-09-28",
+                "Sin indexar": "117",
+                "Indexadas": "26",
+                "Impresiones": "118"
+            },
+            {
+                "Fecha": "2025-09-29",
+                "Sin indexar": "117",
+                "Indexadas": "26",
+                "Impresiones": "111"
+            },
+            {
+                "Fecha": "2025-09-30",
+                "Sin indexar": "117",
+                "Indexadas": "26",
+                "Impresiones": "99"
+            },
+            {
+                "Fecha": "2025-10-01",
+                "Sin indexar": "117",
+                "Indexadas": "26",
+                "Impresiones": "106"
+            },
+            {
+                "Fecha": "2025-10-02",
+                "Sin indexar": "117",
+                "Indexadas": "26",
+                "Impresiones": "118"
+            },
+            {
+                "Fecha": "2025-10-03",
+                "Sin indexar": "117",
+                "Indexadas": "26",
+                "Impresiones": "103"
+            },
+            {
+                "Fecha": "2025-10-04",
+                "Sin indexar": "112",
+                "Indexadas": "26",
+                "Impresiones": "97"
+            },
+            {
+                "Fecha": "2025-10-05",
+                "Sin indexar": "112",
+                "Indexadas": "26",
+                "Impresiones": "246"
+            },
+            {
+                "Fecha": "2025-10-06",
+                "Sin indexar": "112",
+                "Indexadas": "26",
+                "Impresiones": "350"
+            },
+            {
+                "Fecha": "2025-10-07",
+                "Sin indexar": "106",
+                "Indexadas": "26",
+                "Impresiones": "219"
+            },
+            {
+                "Fecha": "2025-10-08",
+                "Sin indexar": "106",
+                "Indexadas": "26",
+                "Impresiones": "145"
+            },
+            {
+                "Fecha": "2025-10-09",
+                "Sin indexar": "106",
+                "Indexadas": "26",
+                "Impresiones": "132"
+            },
+            {
+                "Fecha": "2025-10-10",
+                "Sin indexar": "106",
+                "Indexadas": "26",
+                "Impresiones": "79"
+            },
+            {
+                "Fecha": "2025-10-11",
+                "Sin indexar": "106",
+                "Indexadas": "26",
+                "Impresiones": "68"
+            },
+            {
+                "Fecha": "2025-10-12",
+                "Sin indexar": "106",
+                "Indexadas": "26",
+                "Impresiones": "132"
+            },
+            {
+                "Fecha": "2025-10-13",
+                "Sin indexar": "106",
+                "Indexadas": "26",
+                "Impresiones": "239"
+            },
+            {
+                "Fecha": "2025-10-14",
+                "Sin indexar": "107",
+                "Indexadas": "26",
+                "Impresiones": "158"
+            },
+            {
+                "Fecha": "2025-10-15",
+                "Sin indexar": "107",
+                "Indexadas": "26",
+                "Impresiones": "130"
+            },
+            {
+                "Fecha": "2025-10-16",
+                "Sin indexar": "107",
+                "Indexadas": "26",
+                "Impresiones": "110"
+            },
+            {
+                "Fecha": "2025-10-17",
+                "Sin indexar": "107",
+                "Indexadas": "26",
+                "Impresiones": "93"
+            },
+            {
+                "Fecha": "2025-10-18",
+                "Sin indexar": "107",
+                "Indexadas": "25",
+                "Impresiones": "88"
+            },
+            {
+                "Fecha": "2025-10-19",
+                "Sin indexar": "107",
+                "Indexadas": "25",
+                "Impresiones": "121"
+            },
+            {
+                "Fecha": "2025-10-20",
+                "Sin indexar": "107",
+                "Indexadas": "25",
+                "Impresiones": "126"
+            },
+            {
+                "Fecha": "2025-10-21",
+                "Sin indexar": "106",
+                "Indexadas": "25",
+                "Impresiones": "111"
+            },
+            {
+                "Fecha": "2025-10-22",
+                "Sin indexar": "106",
+                "Indexadas": "25",
+                "Impresiones": "158"
+            },
+            {
+                "Fecha": "2025-10-23",
+                "Sin indexar": "106",
+                "Indexadas": "25",
+                "Impresiones": "143"
+            },
+            {
+                "Fecha": "2025-10-24",
+                "Sin indexar": "106",
+                "Indexadas": "25",
+                "Impresiones": "79"
+            },
+            {
+                "Fecha": "2025-10-25",
+                "Sin indexar": "106",
+                "Indexadas": "25",
+                "Impresiones": "115"
+            },
+            {
+                "Fecha": "2025-10-26",
+                "Sin indexar": "106",
+                "Indexadas": "25",
+                "Impresiones": "199"
+            },
+            {
+                "Fecha": "2025-10-27",
+                "Sin indexar": "106",
+                "Indexadas": "25",
+                "Impresiones": "197"
+            },
+            {
+                "Fecha": "2025-10-28",
+                "Sin indexar": "106",
+                "Indexadas": "25",
+                "Impresiones": "231"
+            },
+            {
+                "Fecha": "2025-10-29",
+                "Sin indexar": "106",
+                "Indexadas": "25",
+                "Impresiones": "216"
+            },
+            {
+                "Fecha": "2025-10-30",
+                "Sin indexar": "106",
+                "Indexadas": "25",
+                "Impresiones": "347"
+            },
+            {
+                "Fecha": "2025-10-31",
+                "Sin indexar": "106",
+                "Indexadas": "25",
+                "Impresiones": "151"
+            },
+            {
+                "Fecha": "2025-11-01",
+                "Sin indexar": "106",
+                "Indexadas": "25",
+                "Impresiones": "113"
+            },
+            {
+                "Fecha": "2025-11-02",
+                "Sin indexar": "106",
+                "Indexadas": "25",
+                "Impresiones": "156"
+            },
+            {
+                "Fecha": "2025-11-03",
+                "Sin indexar": "106",
+                "Indexadas": "25",
+                "Impresiones": "146"
+            }
+        ]
+    },
+    "recommended_actions": {
+        "priority_1": [
+            "Corregir las 48 p\u00e1ginas con error 404 - Incluye las 8 identificadas por Semrush",
+            "Revisar las 7 p\u00e1ginas excluidas con noindex"
+        ],
+        "priority_2": [
+            "Corregir los 38 t\u00edtulos duplicados identificados por Semrush",
+            "A\u00f1adir meta descripciones a las 51 p\u00e1ginas que las carecen",
+            "Resolver los 62 enlaces internos rotos identificados por Semrush"
+        ],
+        "priority_3": [
+            "Implementar optimizaciones de Core Web Vitals",
+            "Mejorar estructura de enlaces internos",
+            "Actualizar sitemap.xml"
+        ]
+    }
+}

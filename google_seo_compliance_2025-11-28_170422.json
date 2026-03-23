@@ -1,0 +1,1151 @@
+{
+    "generated_at": "2025-11-28 17:04:22",
+    "standards": {
+        "title_range": [
+            30,
+            60
+        ],
+        "desc_range": [
+            120,
+            160
+        ]
+    },
+    "summary": {
+        "total": 76,
+        "compliant": 0,
+        "issues": {
+            "title_missing": 0,
+            "title_short": 2,
+            "title_long": 0,
+            "desc_missing": 0,
+            "desc_short": 0,
+            "desc_long": 0,
+            "keywords_missing": 76
+        },
+        "by_type": {
+            "post": {
+                "total": 0,
+                "ok": 0,
+                "issues": 0
+            },
+            "page": {
+                "total": 0,
+                "ok": 0,
+                "issues": 0
+            },
+            "instituciones": {
+                "total": 1,
+                "ok": 0,
+                "issues": 1
+            },
+            "empresas_aliadas": {
+                "total": 2,
+                "ok": 0,
+                "issues": 2
+            },
+            "landing_paises": {
+                "total": 3,
+                "ok": 0,
+                "issues": 3
+            },
+            "quienes-sirven": {
+                "total": 7,
+                "ok": 0,
+                "issues": 7
+            },
+            "participa": {
+                "total": 6,
+                "ok": 0,
+                "issues": 6
+            },
+            "tematicas_y_elemento": {
+                "total": 4,
+                "ok": 0,
+                "issues": 4
+            },
+            "logos": {
+                "total": 47,
+                "ok": 0,
+                "issues": 47
+            },
+            "testimonios": {
+                "total": 5,
+                "ok": 0,
+                "issues": 5
+            },
+            "country_page": {
+                "total": 1,
+                "ok": 0,
+                "issues": 1
+            }
+        }
+    },
+    "items": [
+        {
+            "id": 4961,
+            "type": "instituciones",
+            "url": "https://marschallenge.space/instituciones/federacion-mexicana-de-la-industria-aeroespacial/",
+            "title": "FEMIA | Instituciones Mars Challenge",
+            "title_length": 36,
+            "description": "Conoce Federación Mexicana de la Industria Aeroespacial, institución participante en Mars Challenge. Red global de innovación dual-planeta para soluciones so...",
+            "desc_length": 160,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 4958,
+            "type": "empresas_aliadas",
+            "url": "https://marschallenge.space/empresas_aliadas/virtual-educa/",
+            "title": "Virtual educa | Empresas Aliadas Mars Challenge",
+            "title_length": 47,
+            "description": "Virtual educa - Empresa aliada de Mars Challenge. Colaboración corporativa en innovación espacial y sostenibilidad terrestre.",
+            "desc_length": 125,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 4922,
+            "type": "empresas_aliadas",
+            "url": "https://marschallenge.space/empresas_aliadas/federacion-mexicana-de-la-industria-aeroespacial/",
+            "title": "FEMIA | Empresas Aliadas Mars Challenge",
+            "title_length": 39,
+            "description": "Federación Mexicana de la Industria Aeroespacial - Empresa aliada de Mars Challenge. Colaboración corporativa en innovación espacial y sostenibilidad terrestre.",
+            "desc_length": 160,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5476,
+            "type": "landing_paises",
+            "url": "https://marschallenge.space/peru/",
+            "title": "Mars Challenge Perú | Innovación Dual-Planeta",
+            "title_length": 45,
+            "description": "Mars Challenge en Perú. Únete al movimiento global de innovación dual-planeta. Participa en el reto educativo más importante.",
+            "desc_length": 125,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5463,
+            "type": "landing_paises",
+            "url": "https://marschallenge.space/espana/",
+            "title": "Mars Challenge España | Innovación Dual-Planeta",
+            "title_length": 47,
+            "description": "Mars Challenge en España. Únete al movimiento global de innovación dual-planeta. Participa en el reto educativo más importante.",
+            "desc_length": 127,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 4672,
+            "type": "landing_paises",
+            "url": "https://marschallenge.space/mexico/",
+            "title": "Mars Challenge México | Innovación Dual-Planeta",
+            "title_length": 47,
+            "description": "Mars Challenge en México. Únete al movimiento global de innovación dual-planeta. Participa en el reto educativo más importante.",
+            "desc_length": 127,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 4255,
+            "type": "quienes-sirven",
+            "url": "https://marschallenge.space/quienes-sirven/jovenes-zers/",
+            "title": "Jóvenes (Zers) | Quiénes Sirven - Mars Challenge",
+            "title_length": 48,
+            "description": "Descubre Jóvenes (Zers) en Mars Challenge. Información sobre participantes, beneficios y cómo formar parte del movimiento global.",
+            "desc_length": 129,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 4253,
+            "type": "quienes-sirven",
+            "url": "https://marschallenge.space/quienes-sirven/maestros-y-mentores/",
+            "title": "Maestros y mentores | Quiénes Sirven - Mars Challenge",
+            "title_length": 53,
+            "description": "Descubre Maestros y mentores en Mars Challenge. Información sobre participantes, beneficios y cómo formar parte del movimiento global.",
+            "desc_length": 134,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 4251,
+            "type": "quienes-sirven",
+            "url": "https://marschallenge.space/quienes-sirven/colegios-y-escuelas/",
+            "title": "Colegios y escuelas | Quiénes Sirven - Mars Challenge",
+            "title_length": 53,
+            "description": "Descubre Colegios y escuelas en Mars Challenge. Información sobre participantes, beneficios y cómo formar parte del movimiento global.",
+            "desc_length": 134,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 4249,
+            "type": "quienes-sirven",
+            "url": "https://marschallenge.space/quienes-sirven/otras-instituciones/",
+            "title": "Otras instituciones | Quiénes Sirven - Mars Challenge",
+            "title_length": 53,
+            "description": "Descubre Otras instituciones en Mars Challenge. Información sobre participantes, beneficios y cómo formar parte del movimiento global.",
+            "desc_length": 134,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 4247,
+            "type": "quienes-sirven",
+            "url": "https://marschallenge.space/quienes-sirven/universidades/",
+            "title": "Universidades | Quiénes Sirven - Mars Challenge",
+            "title_length": 47,
+            "description": "Descubre Universidades en Mars Challenge. Información sobre participantes, beneficios y cómo formar parte del movimiento global.",
+            "desc_length": 128,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 4242,
+            "type": "quienes-sirven",
+            "url": "https://marschallenge.space/quienes-sirven/empresas/",
+            "title": "Empresas | Quiénes Sirven - Mars Challenge",
+            "title_length": 42,
+            "description": "Descubre Empresas en Mars Challenge. Información sobre participantes, beneficios y cómo formar parte del movimiento global.",
+            "desc_length": 123,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 4177,
+            "type": "quienes-sirven",
+            "url": "https://marschallenge.space/quienes-sirven/ciudades-y-estados/",
+            "title": "Ciudades y Gobiernos | Quiénes Sirven Mars",
+            "title_length": 42,
+            "description": "Descubre Ciudades y gobiernos locales en Mars Challenge. Información sobre participantes, beneficios y cómo formar parte del movimiento global.",
+            "desc_length": 143,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 2656,
+            "type": "participa",
+            "url": "https://marschallenge.space/participa/paises/",
+            "title": "Países | Participa en Mars Challenge",
+            "title_length": 36,
+            "description": "Participa: Países en Mars Challenge. Únete al reto global de innovación y sostenibilidad para jóvenes y educadores. Descubre cómo participar y ser parte de e...",
+            "desc_length": 160,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 2653,
+            "type": "participa",
+            "url": "https://marschallenge.space/participa/ciudades-y-estados/",
+            "title": "Ciudades y estados | Participa en Mars Challenge",
+            "title_length": 48,
+            "description": "Participa: Ciudades y estados en Mars Challenge. Únete al reto global de innovación y sostenibilidad para jóvenes y educadores.",
+            "desc_length": 127,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 2649,
+            "type": "participa",
+            "url": "https://marschallenge.space/participa/empresas/",
+            "title": "Empresas | Participa en Mars Challenge",
+            "title_length": 38,
+            "description": "Participa: Empresas en Mars Challenge. Únete al reto global de innovación y sostenibilidad para jóvenes y educadores. Descubre cómo participar y ser parte de...",
+            "desc_length": 160,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 2643,
+            "type": "participa",
+            "url": "https://marschallenge.space/participa/instituciones/",
+            "title": "Instituciones | Participa en Mars Challenge",
+            "title_length": 43,
+            "description": "Participa: Instituciones en Mars Challenge. Únete al reto global de innovación y sostenibilidad para jóvenes y educadores.",
+            "desc_length": 122,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 2636,
+            "type": "participa",
+            "url": "https://marschallenge.space/participa/docentes-y-mentores/",
+            "title": "Docentes y mentores | Participa en Mars Challenge",
+            "title_length": 49,
+            "description": "Participa: Docentes y mentores en Mars Challenge. Únete al reto global de innovación y sostenibilidad para jóvenes y educadores.",
+            "desc_length": 128,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 2286,
+            "type": "participa",
+            "url": "https://marschallenge.space/participa/estudiantes-2/",
+            "title": "Estudiantes | Participa en Mars Challenge",
+            "title_length": 41,
+            "description": "Participa: Estudiantes en Mars Challenge. Únete al reto global de innovación y sostenibilidad para jóvenes y educadores.",
+            "desc_length": 120,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 2119,
+            "type": "tematicas_y_elemento",
+            "url": "https://marschallenge.space/tematicas_y_elemento/2026-tierra-convocatoria-abierta/",
+            "title": "2026 — Tierra (Convocatoria abierta) | Temáticas Mars Cha...",
+            "title_length": 60,
+            "description": "Explora 2026 — Tierra (Convocatoria abierta) - Temática Mars Challenge. Retos de innovación dual-planeta: soluciones para la Tierra y Marte.",
+            "desc_length": 140,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 2116,
+            "type": "tematicas_y_elemento",
+            "url": "https://marschallenge.space/tematicas_y_elemento/2025-fuego/",
+            "title": "2025 — Fuego | Temáticas Mars Challenge",
+            "title_length": 39,
+            "description": "Explora 2025 — Fuego - Temática Mars Challenge. Retos de innovación dual-planeta: soluciones para la Tierra y Marte. Explora los desafíos y oportunidades de ...",
+            "desc_length": 160,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 2113,
+            "type": "tematicas_y_elemento",
+            "url": "https://marschallenge.space/tematicas_y_elemento/2024-agua/",
+            "title": "2024 — Agua | Temáticas Mars Challenge",
+            "title_length": 38,
+            "description": "Explora 2024 — Agua - Temática Mars Challenge. Retos de innovación dual-planeta: soluciones para la Tierra y Marte. Explora los desafíos y oportunidades de e...",
+            "desc_length": 160,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 2082,
+            "type": "tematicas_y_elemento",
+            "url": "https://marschallenge.space/tematicas_y_elemento/2023-genesis/",
+            "title": "2023 — Génesis | Temáticas Mars Challenge",
+            "title_length": 41,
+            "description": "Explora 2023 — Génesis - Temática Mars Challenge. Retos de innovación dual-planeta: soluciones para la Tierra y Marte. Explora los desafíos y oportunidades d...",
+            "desc_length": 160,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5849,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/secretaria-de-innovacion-y-desarrollo/",
+            "title": "Secretaria de innovación y desarrollo | Mars Challenge",
+            "title_length": 54,
+            "description": "Secretaria de innovación y desarrollo - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global.",
+            "desc_length": 139,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5751,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/zodiac-aerospace/",
+            "title": "ZODIAC AEROSPACE | Mars Challenge",
+            "title_length": 33,
+            "description": "ZODIAC AEROSPACE - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global. Socio estratégico comprometido.",
+            "desc_length": 150,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5749,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/textron-aviation/",
+            "title": "TEXTRON AVIATION | Mars Challenge",
+            "title_length": 33,
+            "description": "TEXTRON AVIATION - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global. Socio estratégico comprometido.",
+            "desc_length": 150,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5747,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/safran/",
+            "title": "SAFRAN - Aliado | Mars Challenge",
+            "title_length": 32,
+            "description": "SAFRAN - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global. Socio estratégico comprometido.",
+            "desc_length": 140,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5745,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/optimen/",
+            "title": "OPTIMEN - Aliado | Mars Challenge",
+            "title_length": 33,
+            "description": "OPTIMEN - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global. Socio estratégico comprometido.",
+            "desc_length": 141,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5743,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/itp-aero/",
+            "title": "ITP AERO - Aliado | Mars Challenge",
+            "title_length": 34,
+            "description": "ITP AERO - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global. Socio estratégico comprometido.",
+            "desc_length": 142,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5741,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/innova-engineered-plastics/",
+            "title": "INNOVA ENGINEERED PLASTICS | Mars Challenge",
+            "title_length": 43,
+            "description": "INNOVA ENGINEERED PLASTICS - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global.",
+            "desc_length": 128,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5739,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/indeq/",
+            "title": "INDEQ - Aliado | Mars Challenge",
+            "title_length": 31,
+            "description": "INDEQ - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global. Socio estratégico comprometido.",
+            "desc_length": 139,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5737,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/honeywell/",
+            "title": "HONEYWELL - Aliado | Mars Challenge",
+            "title_length": 35,
+            "description": "HONEYWELL - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global. Socio estratégico comprometido.",
+            "desc_length": 143,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5735,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/heroux-devtek/",
+            "title": "HEROUX DEVTEK | Mars Challenge",
+            "title_length": 30,
+            "description": "HEROUX DEVTEK - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global. Socio estratégico comprometido.",
+            "desc_length": 147,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5733,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/gulfstream/",
+            "title": "GULFSTREAM - Aliado | Mars Challenge",
+            "title_length": 36,
+            "description": "GULFSTREAM - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global. Socio estratégico comprometido.",
+            "desc_length": 144,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5731,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/ge-aerospace/",
+            "title": "GE AEROSPACE - Aliado | Mars Challenge",
+            "title_length": 38,
+            "description": "GE AEROSPACE - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global. Socio estratégico comprometido.",
+            "desc_length": 146,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5729,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/dupont/",
+            "title": "DUPONT - Aliado | Mars Challenge",
+            "title_length": 32,
+            "description": "DUPONT - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global. Socio estratégico comprometido.",
+            "desc_length": 140,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5727,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/collins-aerospace/",
+            "title": "COLLINS AEROSPACE | Mars Challenge",
+            "title_length": 34,
+            "description": "COLLINS AEROSPACE - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global. Socio estratégico comprometido.",
+            "desc_length": 151,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5725,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/bombardier-aerospace/",
+            "title": "BOMBARDIER AEROSPACE | Mars Challenge",
+            "title_length": 37,
+            "description": "BOMBARDIER AEROSPACE - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global.",
+            "desc_length": 122,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5723,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/boeing/",
+            "title": "BOEING - Aliado | Mars Challenge",
+            "title_length": 32,
+            "description": "BOEING - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global. Socio estratégico comprometido.",
+            "desc_length": 140,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5721,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/ascent-aerospace/",
+            "title": "ASCENT AEROSPACE | Mars Challenge",
+            "title_length": 33,
+            "description": "ASCENT AEROSPACE - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global. Socio estratégico comprometido.",
+            "desc_length": 150,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5719,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/american-industries/",
+            "title": "AMERICAN INDUSTRIES | Mars Challenge",
+            "title_length": 36,
+            "description": "AMERICAN INDUSTRIES - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global.",
+            "desc_length": 121,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5717,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/airbus/",
+            "title": "AIRBUS - Aliado | Mars Challenge",
+            "title_length": 32,
+            "description": "AIRBUS - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global. Socio estratégico comprometido.",
+            "desc_length": 140,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5715,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/aerocluster/",
+            "title": "AEROCLUSTER - Aliado | Mars Challenge",
+            "title_length": 37,
+            "description": "AEROCLUSTER - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global. Socio estratégico comprometido.",
+            "desc_length": 145,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5713,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/aernnova/",
+            "title": "AERNNOVA - Aliado | Mars Challenge",
+            "title_length": 34,
+            "description": "AERNNOVA - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global. Socio estratégico comprometido.",
+            "desc_length": 142,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5530,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/tech-learning-awards-2025/",
+            "title": "Tech & Learning Awards 2025 | Mars Challenge",
+            "title_length": 44,
+            "description": "Tech & Learning Awards 2025 - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global.",
+            "desc_length": 129,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5282,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/reimagine-education-awards/",
+            "title": "ReImagine Education Awards | Mars Challenge",
+            "title_length": 43,
+            "description": "ReImagine Education Awards - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global.",
+            "desc_length": 128,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5280,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/gess-education-awards-2025/",
+            "title": "GESS Education Awards 2025 | Mars Challenge",
+            "title_length": 43,
+            "description": "GESS Education Awards 2025 - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global.",
+            "desc_length": 128,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 5091,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/secretaria-de-educacion-chihuahua/",
+            "title": "Secretaria de Educación Chihuahua | Mars Challenge",
+            "title_length": 50,
+            "description": "Secretaria de Educación Chihuahua - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global.",
+            "desc_length": 135,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 1338,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/esa/",
+            "title": "ESA Agencia | Mars Challenge",
+            "title_length": 28,
+            "description": "ESA - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global. Socio estratégico comprometido.",
+            "desc_length": 137,
+            "keywords": "",
+            "issues": [
+                "Título corto (28)",
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 1336,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/houston-space-center-nasacolaboracion-individual/",
+            "title": "Houston Space center/ NASA(colaboración individual) | Mar...",
+            "title_length": 60,
+            "description": "Houston Space center/ NASA(colaboración individual) - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global.",
+            "desc_length": 153,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 1334,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/femia/",
+            "title": "FEMIA - Aliado | Mars Challenge",
+            "title_length": 31,
+            "description": "FEMIA - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global. Socio estratégico comprometido.",
+            "desc_length": 139,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 1332,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/space-talent-lab-2/",
+            "title": "Space Talent Lab | Mars Challenge",
+            "title_length": 33,
+            "description": "Space Talent Lab - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global. Socio estratégico comprometido.",
+            "desc_length": 150,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 1329,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/virtual-educa/",
+            "title": "VIRTUAL EDUCA | Mars Challenge",
+            "title_length": 30,
+            "description": "VIRTUAL EDUCA - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global. Socio estratégico comprometido.",
+            "desc_length": 147,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 876,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/edupan/",
+            "title": "Edupan - Aliado | Mars Challenge",
+            "title_length": 32,
+            "description": "Edupan - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global. Socio estratégico comprometido.",
+            "desc_length": 140,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 874,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/buen-data/",
+            "title": "Buen Data - Aliado | Mars Challenge",
+            "title_length": 35,
+            "description": "Buen Data - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global. Socio estratégico comprometido.",
+            "desc_length": 143,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 872,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/lifelong/",
+            "title": "Lifelong - Aliado | Mars Challenge",
+            "title_length": 34,
+            "description": "Lifelong - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global. Socio estratégico comprometido.",
+            "desc_length": 142,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 870,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/griky/",
+            "title": "Griky - Aliado | Mars Challenge",
+            "title_length": 31,
+            "description": "Griky - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global. Socio estratégico comprometido.",
+            "desc_length": 139,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 868,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/roborobo/",
+            "title": "RoboRobo - Aliado | Mars Challenge",
+            "title_length": 34,
+            "description": "RoboRobo - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global. Socio estratégico comprometido.",
+            "desc_length": 142,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 866,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/latourette/",
+            "title": "Latourette - Aliado | Mars Challenge",
+            "title_length": 36,
+            "description": "Latourette - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global. Socio estratégico comprometido.",
+            "desc_length": 144,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 863,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/cuco/",
+            "title": "CUCO - Aliado | Mars Challenge",
+            "title_length": 30,
+            "description": "CUCO - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global. Socio estratégico comprometido.",
+            "desc_length": 138,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 862,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/qualcomm/",
+            "title": "Qualcomm - Aliado | Mars Challenge",
+            "title_length": 34,
+            "description": "Qualcomm - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global. Socio estratégico comprometido.",
+            "desc_length": 142,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 860,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/aec/",
+            "title": "AEC Empresa | Mars Challenge",
+            "title_length": 28,
+            "description": "AEC - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global. Socio estratégico comprometido.",
+            "desc_length": 137,
+            "keywords": "",
+            "issues": [
+                "Título corto (28)",
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 858,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/ayuntamiento-de-getafe/",
+            "title": "Ayuntamiento de Getafe | Mars Challenge",
+            "title_length": 39,
+            "description": "Ayuntamiento de Getafe - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global.",
+            "desc_length": 124,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 855,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/getafe-iniciativas/",
+            "title": "Getafe Iniciativas | Mars Challenge",
+            "title_length": 35,
+            "description": "Getafe Iniciativas - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global.",
+            "desc_length": 120,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 854,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/departamento-de-educacion/",
+            "title": "Departamento de educación | Mars Challenge",
+            "title_length": 42,
+            "description": "Departamento de educación - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global.",
+            "desc_length": 127,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 852,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/iste/",
+            "title": "ISTE - Aliado | Mars Challenge",
+            "title_length": 30,
+            "description": "ISTE - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global. Socio estratégico comprometido.",
+            "desc_length": 138,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 850,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/ruta-n/",
+            "title": "Ruta N - Aliado | Mars Challenge",
+            "title_length": 32,
+            "description": "Ruta N - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global. Socio estratégico comprometido.",
+            "desc_length": 140,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 848,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/space-center-houston/",
+            "title": "Space Center Houston | Mars Challenge",
+            "title_length": 37,
+            "description": "Space Center Houston - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global.",
+            "desc_length": 122,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 846,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/space-talent-lab/",
+            "title": "Space Talent Lab | Mars Challenge",
+            "title_length": 33,
+            "description": "Space Talent Lab - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global. Socio estratégico comprometido.",
+            "desc_length": 150,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 843,
+            "type": "logos",
+            "url": "https://marschallenge.space/logos/parlamento/",
+            "title": "Parlamento - Aliado | Mars Challenge",
+            "title_length": 36,
+            "description": "Parlamento - Mars Challenge Colaborador oficial del proyecto Mars Challenge para la innovación educativa global. Socio estratégico comprometido.",
+            "desc_length": 144,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 648,
+            "type": "testimonios",
+            "url": "https://marschallenge.space/testimonios/carolina-londono-pelaez/",
+            "title": "Carolina Londoño Peláez | Testimonios Mars Challenge",
+            "title_length": 52,
+            "description": "Testimonio: Carolina Londoño Peláez. Experiencias reales de participantes en Mars Challenge, el reto global de innovación espacial.",
+            "desc_length": 131,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 646,
+            "type": "testimonios",
+            "url": "https://marschallenge.space/testimonios/alejandro-gavarrete/",
+            "title": "Alejandro Gavarrete | Testimonios Mars Challenge",
+            "title_length": 48,
+            "description": "Testimonio: Alejandro Gavarrete. Experiencias reales de participantes en Mars Challenge, el reto global de innovación espacial.",
+            "desc_length": 127,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 644,
+            "type": "testimonios",
+            "url": "https://marschallenge.space/testimonios/maria-alejandra-gaviria/",
+            "title": "María Alejandra Gaviria | Testimonios Mars Challenge",
+            "title_length": 52,
+            "description": "Testimonio: María Alejandra Gaviria. Experiencias reales de participantes en Mars Challenge, el reto global de innovación espacial.",
+            "desc_length": 131,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 642,
+            "type": "testimonios",
+            "url": "https://marschallenge.space/testimonios/nayeli-abreu/",
+            "title": "Nayeli Abreu | Testimonios Mars Challenge",
+            "title_length": 41,
+            "description": "Testimonio: Nayeli Abreu. Experiencias reales de participantes en Mars Challenge, el reto global de innovación espacial.",
+            "desc_length": 120,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 636,
+            "type": "testimonios",
+            "url": "https://marschallenge.space/testimonios/sofia-mena/",
+            "title": "Sofía Mena | Testimonios Mars Challenge",
+            "title_length": 39,
+            "description": "Testimonio: Sofía Mena. Experiencias reales de participantes en Mars Challenge, el reto global de innovación espacial. Su experiencia inspira a miles de part...",
+            "desc_length": 160,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        },
+        {
+            "id": 4430,
+            "type": "country_page",
+            "url": "https://marschallenge.space/country-page/mexico/",
+            "title": "Mars Challenge México | País Participante",
+            "title_length": 41,
+            "description": "Mars Challenge México - Página oficial del país. Descubre cómo participar en el reto global de innovación dual-planeta. Explora las actividades y logros de M...",
+            "desc_length": 160,
+            "keywords": "",
+            "issues": [
+                "Sin keywords"
+            ],
+            "compliant": false
+        }
+    ]
+}

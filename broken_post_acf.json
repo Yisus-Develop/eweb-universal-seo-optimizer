@@ -1,0 +1,201 @@
+{
+    "equipo": {
+        "descripcion_equipo": "\u201cUn grupo de j\u00f3venes puertorrique\u00f1os comprometidos con el futuro de la vida humana en Marte, que unieron ciencia, sostenibilidad y visi\u00f3n ecol\u00f3gica para dise\u00f1ar un modelo de supervivencia basado en el respeto por la naturaleza.\u201d",
+        "titulo_integrantes": "Integrantes del equipo M.L.C.S",
+        "integrantes": [
+            {
+                "nombre": "Yatniel V\u00e1zquez D\u00edaz",
+                "foto-integrante": 6334,
+                "cargo": "Nivel media superior",
+                "emoji": {
+                    "type": "media_library",
+                    "value": "6139"
+                },
+                "color_cargo": "#6eb6ff"
+            },
+            {
+                "nombre": "Coralis Pag\u00e1n Curet",
+                "foto-integrante": 6333,
+                "cargo": "Ciencias en Enfermer\u00eda",
+                "emoji": {
+                    "type": "media_library",
+                    "value": "6182"
+                },
+                "color_cargo": "#adebb3"
+            },
+            {
+                "nombre": "Emannuel Gallardo Morales",
+                "foto-integrante": 6332,
+                "cargo": "Administraci\u00f3n de Empresas (Gerencia)",
+                "emoji": {
+                    "type": "media_library",
+                    "value": "6139"
+                },
+                "color_cargo": "#e17b6c"
+            },
+            {
+                "nombre": "Neiel Marrero Arce",
+                "foto-integrante": 6331,
+                "cargo": "Nivel media superior",
+                "emoji": {
+                    "type": "media_library",
+                    "value": "6139"
+                },
+                "color_cargo": "#6eb6ff"
+            },
+            {
+                "nombre": "Pedro J. Hern\u00e1ndez Riveran",
+                "foto-integrante": 6330,
+                "cargo": "Ciencias en Administraci\u00f3n (Contabilidad)",
+                "emoji": {
+                    "type": "media_library",
+                    "value": "6139"
+                },
+                "color_cargo": "#e17b6c"
+            },
+            {
+                "nombre": "Ginette Campos Mart\u00ednez",
+                "foto-integrante": 6329,
+                "cargo": "Ciencias en Administraci\u00f3n",
+                "emoji": {
+                    "type": "media_library",
+                    "value": "6182"
+                },
+                "color_cargo": "#e17b6c"
+            },
+            {
+                "nombre": "William Medina Rom\u00e1n",
+                "foto-integrante": 6328,
+                "cargo": "Nivel media superior",
+                "emoji": {
+                    "type": "media_library",
+                    "value": "6139"
+                },
+                "color_cargo": "#6eb6ff"
+            },
+            {
+                "nombre": "Jehu Mart\u00ednez Guerra",
+                "foto-integrante": 6327,
+                "cargo": "Nivel media superior",
+                "emoji": {
+                    "type": "media_library",
+                    "value": "6139"
+                },
+                "color_cargo": "#6eb6ff"
+            },
+            {
+                "nombre": "Eduardo A. Salda\u00f1a Centeno",
+                "foto-integrante": 6326,
+                "cargo": "Nivel media superior",
+                "emoji": {
+                    "type": "media_library",
+                    "value": "6139"
+                },
+                "color_cargo": "#6eb6ff"
+            },
+            {
+                "nombre": "Mia Sophia Ortiz Col\u00f3n",
+                "foto-integrante": 6325,
+                "cargo": "Nivel media superior",
+                "emoji": {
+                    "type": "media_library",
+                    "value": "6182"
+                },
+                "color_cargo": "#6eb6ff"
+            }
+        ]
+    },
+    "equipo_source": {
+        "label": "Equipo",
+        "type": "group",
+        "formatted_value": {
+            "descripcion_equipo": null,
+            "titulo_integrantes": null,
+            "integrantes": false
+        }
+    },
+    "desafio": "El equipo M.L.C.S. (Mars Life Care System) centr\u00f3 su esfuerzo en uno de los pilares fundamentales para la colonizaci\u00f3n marciana: la sostenibilidad ambiental y alimentaria.\r\n<br>\r\n<br>\r\nSu prop\u00f3sito fue dise\u00f1ar un modelo ecol\u00f3gico de supervivencia basado en la creaci\u00f3n de domos interconectados capaces de sostener vida humana, vegetal\r\ny ambiental de manera autosuficiente.\r\n",
+    "desafio_source": {
+        "label": "Desafio",
+        "type": "textarea",
+        "formatted_value": "El equipo M.L.C.S. (Mars Life Care System) centr\u00f3 su esfuerzo en uno de los pilares fundamentales para la colonizaci\u00f3n marciana: la sostenibilidad ambiental y alimentaria.\r\n<br>\r\n<br>\r\nSu prop\u00f3sito fue dise\u00f1ar un modelo ecol\u00f3gico de supervivencia basado en la creaci\u00f3n de domos interconectados capaces de sostener vida humana, vegetal\r\ny ambiental de manera autosuficiente.\r\n"
+    },
+    "tab_1": {
+        "nombre_tab_1": "La soluci\u00f3n creada:<br>Mars Life Care System",
+        "titulo_tab_1": "\u201cDomos vivos para una vida sostenible.\u201d",
+        "descripcion_tab_1": "M.L.C.S. propone un sistema de domos ecol\u00f3gicos interconectados, concebido como proyecto piloto para la terraformaci\u00f3n de Marte.\r\n<br>\r\n<br>\r\nCada domo cumple una funci\u00f3n esencial para la vida:\r\n<br>\r\n<br>\r\n- Producci\u00f3n de ox\u00edgeno y alimento mediante cultivos vegetales.\r\n<br>\r\n- Gesti\u00f3n circular de recursos: manejo de desechos, reciclaje de agua, control de temperatura y humedad.\r\n<br>\r\n- Pruebas de sostenibilidad del suelo marciano, garantizando que los ecosistemas sean viables a largo plazo.\u2028\r\n<br>\r\n- El sistema no solo busca la supervivencia, sino un modo de vida autosuficiente y respetuoso con el entorno.\r\n<br>\r\n<br>\r\n\u201cLos domos son una promesa de vida: peque\u00f1os ecosistemas donde la humanidad puede florecer.\u201d\r\n",
+        "imagen_1": 6322
+    },
+    "tab_1_source": {
+        "label": "Tab_1",
+        "type": "group",
+        "formatted_value": {
+            "nombre_tab_1": null,
+            "titulo_tab_1": null,
+            "descripcion_tab_1": null,
+            "imagen_1": false
+        }
+    },
+    "tab_2": {
+        "titulo_tabs_2": "La empresa conceptual:<br>Mars Life Care System",
+        "descripcion_tabs_2": "Mars Life Care System es una iniciativa educativa y cient\u00edfica que simboliza el equilibrio entre la innovaci\u00f3n tecnol\u00f3gica y la preservaci\u00f3n ambiental.\r\n<br>\r\n<br>\r\nSu meta es crear modelos sostenibles de vida que puedan replicarse tanto en Marte como en la Tierra.\r\n<br>\r\n<br>\r\n\u201cSi podemos cultivar vida en Marte, podemos restaurarla en nuestro planeta.\u201d\r\n",
+        "cita_tab_2": "",
+        "logo_proyecto": ""
+    },
+    "tab_2_source": {
+        "label": "Tab_2",
+        "type": "group",
+        "formatted_value": {
+            "titulo_tabs_2": null,
+            "descripcion_tabs_2": null,
+            "cita_tab_2": null,
+            "logo_proyecto": false
+        }
+    },
+    "tab_3": {
+        "titulo_tab_3": "Impacto:<br>de Marte a la Tierra",
+        "en_marte": "- Promueve la terraformaci\u00f3n mediante la agricultura y el reciclaje de recursos.\r\n<br>\r\n- Asegura alimento y ox\u00edgeno a las futuras misiones humanas.\r\n<br>\r\n- Reduce la dependencia de suministros desde la Tierra.\u2028",
+        "en_la_tierra": "- Aplicable en zonas \u00e1ridas o afectadas por desastres naturales.\r\n<br>\r\n- Fomenta la reforestaci\u00f3n y la producci\u00f3n sostenible tras huracanes o incendios.\r\n<br>\r\n- Modelo educativo para programas de sostenibilidad y ciencia ambiental.",
+        "cita_tab_3": "\u201cLo que hace posible la vida en Marte, puede tambi\u00e9n salvar la Tierra.\u201d"
+    },
+    "tab_3_source": {
+        "label": "Tab_3",
+        "type": "group",
+        "formatted_value": {
+            "titulo_tab_3": null,
+            "en_marte": null,
+            "en_la_tierra": null,
+            "cita_tab_3": null
+        }
+    },
+    "legado_e_inspiracion": {
+        "cita_legado": "",
+        "descripcion_legado": "El equipo M.L.C.S. representa el ingenio, la esperanza y la conciencia ambiental de la juventud puertorrique\u00f1a.\r\n<br>\r\n<br>\r\nSu proyecto fusiona educaci\u00f3n, ciencia y compromiso social, mostrando que la exploraci\u00f3n espacial puede ser tambi\u00e9n un acto de amor por la naturaleza.\r\n",
+        "testimonio_legado": "\u201cSembrar vida m\u00e1s all\u00e1 de nuestro planeta es tambi\u00e9n aprender a cuidarla en casa.\u201d"
+    },
+    "legado_e_inspiracion_source": {
+        "label": "Legado e inspiraci\u00f3n",
+        "type": "group",
+        "formatted_value": {
+            "cita_legado": null,
+            "descripcion_legado": null,
+            "testimonio_legado": null
+        }
+    },
+    "creditos_y_nota_etica": {
+        "titulo_credito": "Equipo M.L.C.S. (Mars Life Care System)",
+        "descripcion_credito": "Ganadores Nacionales \u2013 \r\nMars Challenge \/ Reto Marte 2023",
+        "areas_representadas": "Administraci\u00f3n, Enfermer\u00eda, Educaci\u00f3n, Ciencias Ambientales, Ingenier\u00eda, Psicolog\u00eda, Sostenibilidad",
+        "imagen_creditos": 6321
+    },
+    "creditos_y_nota_etica_source": {
+        "label": "Cr\u00e9ditos y nota \u00e9tica",
+        "type": "group",
+        "formatted_value": {
+            "titulo_credito": null,
+            "descripcion_credito": null,
+            "areas_representadas": null,
+            "imagen_creditos": false
+        }
+    }
+}

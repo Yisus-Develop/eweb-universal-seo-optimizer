@@ -1,0 +1,120 @@
+<wpml-config>
+    <elementor-widgets>
+        <widget name="nested-tabs">
+            <conditions>
+                <condition key="widgetType">nested-tabs</condition>
+            </conditions>
+            <fields-in-item items_of="tabs">
+                <field type="Título de Pestaña" editor_type="LINE">tab_title</field>
+                <field type="Contenido de Pestaña" editor_type="VISUAL">tab_content</field>
+            </fields-in-item>
+        </widget>
+        <widget name="loop-grid">
+            <conditions>
+                <condition key="widgetType">loop-grid</condition>
+            </conditions>
+            <fields>
+                <field type="Template ID" editor_type="LINE">template_id</field>
+            </fields>
+        </widget>
+    </elementor-widgets>
+    <shortcodes>
+        <shortcode>
+            <tag>elementor-template</tag>
+            <attributes>
+                <attribute type="post-id">id</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>contact-form-7</tag>
+            <attributes>
+                <attribute type="post-id">id</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>integrantes_grid</tag>
+        </shortcode>
+        
+        <!-- Shortcodes del plugin webhelpers -->
+        <shortcode>
+            <tag>mc_registro</tag>
+        </shortcode>
+        <shortcode>
+            <tag>webh_acf_accordion</tag>
+            <attributes>
+                <attribute>field</attribute>
+                <attribute>post_id</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>mc_agenda_eventos_inline</tag>
+            <attributes>
+                <attribute>btn_text</attribute>
+            </attributes>
+        </shortcode>
+    </shortcodes>
+    <custom-fields>
+        <!-- Post Excerpt (sometimes stored as meta _excerpt) -->
+        <custom-field action="translate">_excerpt</custom-field>
+        
+        <!-- Campos de Texto Simples o Textarea -->
+        <custom-field action="translate">desafio</custom-field>
+        
+        <!-- Grupo: Equipo -->
+        <custom-field action="translate">equipo_descripcion_equipo</custom-field>
+        <custom-field action="translate">equipo_titulo_integrantes</custom-field>
+        
+        <!-- Repeater: Integrantes -->
+        <custom-field action="copy">equipo_integrantes</custom-field>
+        <custom-field action="translate">equipo_integrantes_[*]_nombre</custom-field>
+        <custom-field action="translate">equipo_integrantes_[*]_cargo</custom-field>
+        <custom-field action="translate">equipo_integrantes_[*]_color_cargo</custom-field>
+        
+        <!-- Grupo: Tab 1 -->
+        <custom-field action="translate">tab_1_nombre_tab_1</custom-field>
+        <custom-field action="translate">tab_1_titulo_tab_1</custom-field>
+        <custom-field action="translate">tab_1_descripcion_tab_1</custom-field>
+
+        <!-- Grupo: Tab 2 -->
+        <custom-field action="translate">tab_2_titulo_tabs_2</custom-field>
+        <custom-field action="translate">tab_2_descripcion_tabs_2</custom-field>
+        <custom-field action="translate">tab_2_cita_tab_2</custom-field>
+
+        <!-- Grupo: Tab 3 -->
+        <custom-field action="translate">tab_3_titulo_tab_3</custom-field>
+        <custom-field action="translate">tab_3_en_marte</custom-field>
+        <custom-field action="translate">tab_3_en_la_tierra</custom-field>
+        <custom-field action="translate">tab_3_cita_tab_3</custom-field>
+
+        <!-- Grupo: Legado -->
+        <custom-field action="translate">legado_e_inspiracion_cita_legado</custom-field>
+        <custom-field action="translate">legado_e_inspiracion_descripcion_legado</custom-field>
+        <custom-field action="translate">legado_e_inspiracion_testimonio_legado</custom-field>
+
+        <!-- Grupo: Créditos -->
+        <custom-field action="translate">creditos_y_nota_etica_titulo_credito</custom-field>
+        <custom-field action="translate">creditos_y_nota_etica_descripcion_credito</custom-field>
+        <custom-field action="translate">creditos_y_nota_etica_areas_representadas</custom-field>
+    </custom-fields>
+    <taxonomies>
+        <taxonomy translate="1">nombre_pais</taxonomy>
+        <taxonomy translate="1">ano</taxonomy>
+        <taxonomy translate="1">country</taxonomy>
+    </taxonomies>
+    <custom-types>
+        <!-- CPTs ya configurados -->
+        <custom-type translate="1">proyectos_destacados</custom-type>
+        <custom-type translate="1">logos</custom-type>
+        
+        <!-- CPTs nuevos para traducción -->
+        <custom-type translate="1">testimonios</custom-type>
+        <custom-type translate="1">tematicas_y_elemento</custom-type>
+        <custom-type translate="1">participa</custom-type>
+        <custom-type translate="1">quienes-sirven</custom-type>
+        <custom-type translate="1">landing_paises</custom-type>
+        <custom-type translate="1">empresas_aliadas</custom-type>
+        <custom-type translate="1">instituciones</custom-type>
+        <custom-type translate="1">lp_evento</custom-type>
+        <custom-type translate="1">country_page</custom-type>
+    </custom-types>
+</wpml-config>
