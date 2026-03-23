@@ -1,0 +1,58 @@
+/* Mars Challenge SEO Optimizations - CSS */
+
+/* Optimize for Core Web Vitals */
+.wp-site-blocks,
+#page {
+  opacity: 0;
+  animation: fadeInAnimation ease 0.5s forwards;
+}
+
+@keyframes fadeInAnimation {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+/* Optimize images for performance */
+img[loading="lazy"] {
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+img[loading="lazy"][data-lazy-loaded] {
+  opacity: 1;
+}
+
+/* Optimize for mobile-first approach */
+@media (max-width: 768px) {
+  /* Ensure mobile-friendly touch targets */
+  .seo-optimized-link,
+  .seo-optimized-button {
+    min-height: 44px;
+    min-width: 44px;
+  }
+  
+  /* Optimize content for mobile reading */
+  .seo-content-area {
+    line-height: 1.6;
+    font-size: 16px; /* Prevents font scaling on mobile */
+  }
+}
+
+/* Critical above-the-fold styles loaded first */
+.seo-critical-content {
+  /* Styles for content that should appear immediately */
+}
+
+/* Optimize for accessibility (important for SEO) */
+.screen-reader-text {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  word-wrap: normal !important;
+}
