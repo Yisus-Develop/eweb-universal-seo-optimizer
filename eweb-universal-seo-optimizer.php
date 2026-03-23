@@ -2,7 +2,7 @@
 /**
  * Plugin Name: EWEB Universal SEO Optimizer
  * Description: Advanced SEO optimization tool that can be customized for any WordPress site with project-specific configurations
- * Version: 1.0.1
+ * Version: 1.1.2
  * Author: Yisus Develop
  * Author URI: https://github.com/Yisus-Develop
  * Plugin URI: https://enlaweb.co/
